@@ -1,0 +1,2069 @@
+1	He	served as	first Prime Minister
+1	He	became	founding justice of High Court of Australia
+1	He	became	founding justice
+1	He	became	justice
+1	He	became	justice of High Court
+1	He	became	justice of High Court of Australia
+1	He	served as	Prime Minister
+1	He	served as	first Prime Minister of Australia
+1	He	served as	Prime Minister of Australia
+1	He	became	founding justice of High Court
+2	Graner	left	him
+2	Graner	left there	him
+2	Graner	handcuffed	him
+3	It	deals in	relation
+3	It	deals with	cases of fraud
+3	It	deals with	cases
+4	St. Michael	was considered	patron saint of colonial Maryland
+4	St. Michael	be	patron saint of colonial Maryland
+4	such	was	honored by river named for him
+4	such	was	honored by river named
+4	St. Michael	was	considered
+4	such	was	honored
+4	St. Michael	was considered	patron saint
+4	such	was honored by	river
+4	St. Michael	be	patron saint
+5	viewer	was	channel surfing
+5	show	happening upon	adverts
+5	show	was designed	happening upon adverts
+5	show	was designed	appear
+5	viewer	was	channel surfing through multi-channel wasteland
+5	show	was	designed
+5	show	happening upon	spoof adverts
+5	viewer	was	channel surfing through wasteland
+5	show	was designed	happening
+5	show	was designed	happening upon spoof adverts
+6	remaining trackage	was	abandoned
+6	trackage	was	abandoned
+7	Dr. Jagan	was	involved
+7	Dr. Jagan	was personally involved in	organization of strike
+7	Dr. Jagan	was involved in	organization
+7	Dr. Jagan	was involved in	organization of strike
+7	Dr. Jagan	was	personally involved
+7	Dr. Jagan	was personally involved in	organization
+8	municipality	was renamed Jones In	1918
+8	municipality	was renamed Jones in	honor
+8	municipality	was renamed	Jones
+9	laser	ablating	tissue
+10	attacks Axis surface raider	enter	waters
+10	attacks last Axis surface raider	enter	Australian waters
+10	attacks Axis surface raider	enter waters until	1943
+10	only Axis ship	conduct	attacks
+10	only Axis ship	conduct	attacks in waters
+10	Axis ship	conduct attacks in Australian waters during	1941
+10	Kormoran	was	only Axis ship
+10	attacks Axis surface raider	enter Australian waters until	1943
+10	Axis ship	conduct	attacks in waters
+10	Axis ship	conduct	attacks in Australian waters
+10	Kormoran	was	Axis ship
+10	Axis ship	conduct attacks in waters during	1941
+10	attacks last Axis surface raider	enter waters until	1943
+10	attacks last Axis surface raider	enter	waters
+10	attacks Axis surface raider	enter	Australian waters
+10	attacks last Axis surface raider	enter Australian waters until	1943
+10	only Axis ship	conduct attacks during	1941
+10	only Axis ship	conduct attacks in Australian waters during	1941
+10	Axis ship	conduct	attacks
+10	Axis ship	conduct attacks during	1941
+10	only Axis ship	conduct attacks in waters during	1941
+10	only Axis ship	conduct	attacks in Australian waters
+11	He	were	said
+11	He	said	his friends
+11	He	made	bombs
+11	He	made	his friends
+11	He	made bombs for	fun
+11	He	made bombs for	fun on outskirts of Murray
+11	He	made bombs for	fun on outskirts
+12	gravestone	was	erected in 1866 over 100 years
+12	gravestone	was erected in	1866
+12	gravestone	was	erected
+12	large gravestone	was erected in	1866
+12	gravestone	was erected over	100 years
+12	large gravestone	was	erected in 1866 over 100 years after his death
+12	gravestone	was erected over	100 years after his death
+12	large gravestone	was	erected
+12	gravestone	was	erected in 1866 over 100 years after his death
+12	large gravestone	was	erected in 1866 over 100 years
+12	large gravestone	was erected over	100 years after his death
+12	large gravestone	was erected over	100 years
+13	he	was re-elected In	1879
+13	U.S. Senator	was tipped as	Presidential candidate
+13	U.S. Senator	was	tipped
+13	U.S. Senator	was tipped as	candidate
+14	morning show host Ryan Cameron	lobby for	frequency change
+14	morning show host Ryan Cameron	lobby for	frequency change for WHTA
+14	Radio One	under	management
+14	This	led	morning show host Ryan Cameron
+15	foundation	on	web site
+16	Institut Constant de Rebecque libertarian think tank	founded in	January 2005
+16	Institut Constant Rebecque	is	Swiss free-market named after writer
+16	Institut Constant Rebecque	is	free-market named
+16	Institut Constant Rebecque	is	Swiss free-market named
+16	Institut de Rebecque libertarian think tank	founded in	January 2005 Lausanne
+16	Institut de Rebecque	is	Swiss free-market
+16	Rebecque	is	Swiss
+16	Institut Rebecque	is	Swiss free-market named after writer
+16	January 2005	is in	Lausanne
+16	Institut de Rebecque think tank	founded in	January 2005
+16	Institut Rebecque libertarian think tank	founded in	January 2005
+16	Institut Rebecque think tank	founded in	January 2005
+16	Institut Constant Rebecque libertarian think tank	founded in	January 2005
+16	Institut Constant de Rebecque	is	free-market named
+16	Institut Constant de Rebecque think tank	founded in	January 2005 Lausanne
+16	Institut Constant Rebecque	is	free-market named after writer
+16	Institut Constant de Rebecque	is	Swiss free-market named after writer
+16	Institut Constant de Rebecque	is	free-market
+16	Institut Rebecque	is	Swiss free-market named
+16	Institut Constant de Rebecque	is	Swiss free-market named
+16	Institut Rebecque	is	Swiss free-market
+16	Institut Constant Rebecque think tank	founded in	January 2005
+16	Institut Rebecque think tank	founded in	January 2005 Lausanne
+16	Institut de Rebecque	is	Swiss free-market named after writer
+16	Institut Constant de Rebecque think tank	founded in	January 2005
+16	Institut de Rebecque	is	free-market
+16	Institut Constant Rebecque	is	Swiss free-market
+16	Institut Constant de Rebecque libertarian think tank	founded in	January 2005 Lausanne
+16	Institut Constant Rebecque libertarian think tank	founded in	January 2005 Lausanne
+16	Institut de Rebecque	is	free-market named
+16	Institut de Rebecque libertarian think tank	founded in	January 2005
+16	Institut de Rebecque	is	Swiss free-market named
+16	Institut Rebecque libertarian think tank	founded in	January 2005 Lausanne
+16	Institut Constant de Rebecque	is	Swiss free-market
+16	Institut de Rebecque think tank	founded in	January 2005 Lausanne
+16	Institut Rebecque	is	free-market named
+16	Institut de Rebecque	is	free-market named after writer
+16	Institut Constant de Rebecque	is	free-market named after writer
+16	Institut Rebecque	is	free-market
+16	Institut Constant Rebecque	is	free-market
+16	Institut Constant Rebecque think tank	founded in	January 2005 Lausanne
+16	Institut Rebecque	is	free-market named after writer
+17	main reason	was	its support
+17	reason	was	its support
+18	They	have	large range
+18	They	have	large range of possible power supplies
+18	They	have	range
+18	They	be	380V
+18	They	have	range of possible power supplies
+19	She	began	her film career
+20	brightest star	is	giant
+20	brightest star	is red giant of	spectral type K2III
+20	star	is red giant of	type K2III located
+20	star	is red giant of	spectral type K2III located
+20	star	is	red giant
+20	brightest star	is giant of	type K2III located
+20	brightest star	is in	Serpens
+20	star	is giant of	type K2III
+20	star	is	giant
+20	brightest star	is giant of	spectral type K2III
+20	star	is giant of	spectral type K2III located
+20	star	is red giant of	spectral type K2III
+20	star	is	red
+20	star	is giant of	type K2III located
+20	brightest star	is red giant of	spectral type K2III located
+20	brightest star	is giant of	type K2III
+20	brightest star	is	red giant
+20	star	is red giant of	type K2III
+20	brightest star	is red giant of	type K2III
+20	star	is giant of	spectral type K2III
+20	brightest star	is red giant of	type K2III located
+20	brightest star	is giant of	spectral type K2III located
+21	necessity	understanding	opponent 's weaknesses
+22	It	promote	talent
+22	It	was	club policy
+23	Vaccinations	followed including	rabies vaccination by Louis Pasteur
+23	Vaccinations	followed including	rabies vaccination in 1886
+23	Vaccinations	followed including	successful rabies vaccination by Louis Pasteur in 1886
+23	Vaccinations	followed including	successful rabies vaccination in 1886
+23	Vaccinations	followed including	rabies vaccination
+23	Vaccinations	followed including	rabies vaccination by Louis Pasteur in 1886
+23	Vaccinations	followed including	successful rabies vaccination
+23	Vaccinations	followed including	successful rabies vaccination by Louis Pasteur
+24	Photographic Model	follows	more
+24	Model	follows	more of step-by-step process in development
+24	Photographic Model	follows	more of step-by-step process in development
+24	Photographic Model	follows	more of process in development
+24	Photographic Model	follows	more of process in development of flashbulb accounts
+24	Comprehensive Model	demonstrates	interconnected relationship
+24	Comprehensive Model	demonstrates	relationship between variables
+24	Comprehensive Model	interconnected relationship between	variables
+24	Model	follows	more of step-by-step process in development of flashbulb accounts
+24	Model	follows	more of process in development of flashbulb accounts
+24	Model	follows	more of step-by-step process
+24	Model	follows	more of process in development
+24	Model	follows	more of process
+24	Comprehensive Model	relationship between	variables
+24	step-by-step process	is in	development of flashbulb accounts
+24	Comprehensive Model	demonstrates	interconnected relationship between variables
+24	Comprehensive Model	demonstrates	relationship
+24	Photographic Model	follows	more of step-by-step process
+24	Photographic Model	follows	more of process
+24	Photographic Model	follows	more of step-by-step process in development of flashbulb accounts
+24	Model	follows	more
+25	hotel	defeat attacks on	building
+25	night	soldiers of	1st SS Battalion
+25	hotel	defeat	several attacks
+25	hotel	defeat	attacks
+26	His son	was killed in	feud
+26	His	son	John Crozier
+26	His son	was killed in	feud in Grainger County
+26	son	was	early
+26	His son	was	killed
+26	he	could complete	it
+27	Cherusci	had	allies
+27	Cherusci	now had	allies
+27	Cherusci	had	hand
+27	Cherusci	now had	hand
+27	Cherusci	had	free hand
+27	Cherusci	now had	free hand
+27	Cherusci	hand	allies
+27	Cherusci	free hand	allies
+28	culture	is fully reflected in	respect
+28	culture	is fully reflected in	capital city
+28	culture	is fully reflected in	respect of literature
+28	culture	is	reflected in capital city in respect
+28	culture	is reflected in	respect of literature
+28	culture	is reflected in	respect
+28	culture	is reflected in	capital city
+28	culture	is	fully reflected in capital city in respect of literature
+28	culture	is	reflected
+28	culture	is	fully reflected
+28	culture	is	reflected in capital city in respect of literature
+28	culture	is	fully reflected in capital city in respect
+29	My Classical Way	was released on	Marc 's own label
+29	My Way	was	released on 21 September 2010 on Marc 's own label
+29	My Way	was released on	Marc 's own label
+29	My Way	was	released
+29	My Way	was released on	Marc 's label
+29	My Way	was released on	21 September 2010
+29	My Classical Way	was released on	21 September 2010
+29	My Classical Way	was	released on 21 September 2010 on Marc 's own label
+29	My Way	was	released on 21 September 2010 on Marc 's label
+29	My Classical Way	was	released
+29	My Way	was released on	Frazzy Frog Music
+29	My Classical Way	was released on	Frazzy Frog Music
+29	My Classical Way	was released on	Marc 's label
+29	My Classical Way	was	released on 21 September 2010 on Marc 's label
+29	Marc	on	own label
+30	murder	is	In England as attempt offence under section 1
+30	murder	is offence In	England
+30	attempted murder	is	In England offence under section 1 Criminal Attempts Act 1981
+30	murder	is	In England offence under section 1 of Criminal Attempts Act 1981
+30	attempted murder	is offence as	attempt
+30	attempted murder	is offence under	section 1
+30	murder	is	In England offence under section 1 Criminal Attempts Act 1981
+30	murder	is offence as	attempt
+30	attempted murder	is offence under	section 1 of Criminal Attempts Act 1981
+30	offence	is In	England
+30	attempted murder	is	as attempt offence under section 1 Criminal Attempts Act 1981
+30	attempted murder	is	In England as attempt offence under section 1 Criminal Attempts Act 1981
+30	murder	is offence under	section 1 Criminal Attempts Act 1981
+30	murder	is	as attempt offence under section 1 Criminal Attempts Act 1981
+30	attempted murder	is	In England offence under section 1 of Criminal Attempts Act 1981
+30	murder	is	as attempt offence under section 1
+30	murder	is	In England as attempt offence
+30	attempted murder	is	offence
+30	murder	is	In England as attempt offence under section 1 Criminal Attempts Act 1981
+30	murder	is	indictable
+30	attempted murder	is	In England as attempt offence under section 1
+30	attempted murder	is	In England offence under section 1
+30	attempted murder	is	as attempt offence under section 1
+30	attempted murder	is	as attempt offence under section 1 of Criminal Attempts Act 1981
+30	attempted murder	is offence In	England
+30	murder	is offence under	section 1
+30	attempted murder	is offence under	section 1 Criminal Attempts Act 1981
+30	murder	is	offence
+30	murder	is	In England as attempt offence under section 1 of Criminal Attempts Act 1981
+30	attempted murder	is	In England as attempt offence under section 1 of Criminal Attempts Act 1981
+30	attempted murder	is	In England as attempt offence
+30	murder	is	In England offence under section 1
+30	murder	is	as attempt offence under section 1 of Criminal Attempts Act 1981
+30	murder	is offence under	section 1 of Criminal Attempts Act 1981
+31	Lugo	were	released
+31	Lugo	were released in	1993
+31	Lugo	continue	reside
+31	Lugo	released	Lozano
+31	Lugo	continue	reside in Venezuela
+31	Lugo	continue	Lozano
+33	school	was founded as	German-English Academy
+33	school	was	founded in 1851 as Academy
+33	school	was founded in	1851
+33	school	was	founded in 1851 as German-English Academy
+33	school	was	founded
+33	school	was founded as	Academy
+35	town	were hit by	two earthquakes
+35	town	hit	surrounding villages
+35	town	were hit by	two moderate earthquakes
+35	town	hit	villages
+35	town	were hit by	two moderate earthquakes within ten years
+35	town	were	hit
+35	town	were hit by	two earthquakes within ten years
+36	She	received	her Master Degree
+37	she	used in	her stage show
+38	RIAA	lists	it
+39	Cathedral	were thoroughly renovated from	2006 to 2008
+39	Cathedral	were	thoroughly renovated
+39	Cathedral	thoroughly renovated	belfry
+39	Cathedral	were	renovated
+39	Cathedral	renovated	belfry
+39	Cathedral	were renovated from	2006 to 2008
+40	his home	is in	Brighton
+42	He	saw service as	soldier for forces in later 1570s
+42	He	saw service as	soldier for Scottish forces in later 1570s
+42	He	probably saw	active service
+42	He	saw service as	soldier for Scottish forces in Netherlands in 1570s
+42	He	saw service as	soldier for forces
+42	He	saw service as	soldier for forces in Netherlands in later 1570s
+42	He	probably saw	service
+42	He	probably saw service as	soldier for forces in Netherlands in later 1570s
+42	He	probably saw service as	soldier
+42	He	probably saw service as	soldier for forces in Netherlands
+42	He	probably saw service as	soldier for forces in later 1570s
+42	He	probably saw service as	soldier in 1570s
+42	He	saw service as	soldier
+42	Scottish forces	is in	Netherlands
+42	He	probably saw service as	soldier for Scottish forces in Netherlands in 1570s
+42	soldier	is in	later 1570s
+42	He	saw service as	soldier for Scottish forces in Netherlands
+42	He	saw service as	soldier in later 1570s
+42	He	saw	active service
+42	He	probably saw service as	soldier in later 1570s
+42	He	saw service as	soldier for forces in Netherlands
+42	He	saw service as	soldier in 1570s
+42	He	saw service as	soldier for Scottish forces in Netherlands in later 1570s
+42	He	probably saw service as	soldier for forces in 1570s
+42	He	probably saw service as	soldier for forces in Netherlands in 1570s
+42	He	probably saw service as	soldier for Scottish forces in 1570s
+42	He	probably saw service as	soldier for Scottish forces in Netherlands
+42	He	probably saw service as	soldier for Scottish forces
+42	He	saw service as	soldier for Scottish forces in 1570s
+42	He	probably saw service as	soldier for Scottish forces in later 1570s
+42	He	probably saw service as	soldier for forces
+42	He	saw service as	soldier for forces in 1570s
+42	He	probably saw service as	soldier for Scottish forces in Netherlands in later 1570s
+42	He	saw service as	soldier for forces in Netherlands in 1570s
+42	He	saw service as	soldier for Scottish forces
+42	He	saw	service
+43	Nazis	did permit	single dress
+43	Nazis	did however permit	single dress
+43	rehearsal	conducted on	16 August
+43	Nazis	did permit	dress
+43	Strauss	could hear	work performed
+43	rehearsal	conducted by	Clemens Krauss
+43	Nazis	did however permit	dress
+43	Strauss	could hear	work
+44	This	interacting elements in	oscillator
+44	This	interacting	inductive elements
+44	This	interacting	elements
+44	This	is	caused
+44	This	is	usually caused
+45	Sligo town	municipal borough with	Royal Charter issued
+45	Sligo town	became	incorporated borough with Royal Charter issued in 1613/14
+45	Sligo town	became	borough with Royal Charter issued
+45	Sligo town	incorporated municipal borough with	Royal Charter issued by British King James I in 1613/14
+45	Sligo town	incorporated borough with	Royal Charter issued
+45	Sligo town	incorporated municipal borough with	Royal Charter issued by British King James I
+45	Sligo town	became	incorporated borough with Royal Charter
+45	Sligo town	borough with	Royal Charter issued in 1613/14
+45	Sligo town	incorporated borough with	Royal Charter issued in 1613/14
+45	Sligo town	became	municipal borough with Royal Charter issued in 1613/14
+45	Sligo town	became	municipal borough with Royal Charter
+45	Sligo town	became	incorporated municipal borough with Royal Charter issued in 1613/14
+45	Sligo town	incorporated municipal borough with	Royal Charter issued in 1613/14
+45	Sligo town	became	incorporated borough
+45	Sligo town	became	borough
+45	Sligo town	became	incorporated municipal borough with Royal Charter
+45	Sligo town	became	municipal borough with Royal Charter issued
+45	Sligo town	incorporated municipal borough with	Royal Charter
+45	Sligo town	became	incorporated municipal borough with Royal Charter issued by British King James I
+45	Sligo town	borough with	Royal Charter
+45	Sligo town	became	borough with Royal Charter issued by British King James I
+45	Sligo town	municipal borough with	Royal Charter
+45	Sligo town	became	borough with Royal Charter issued by British King James I in 1613/14
+45	Sligo town	became	incorporated borough with Royal Charter issued by British King James I
+45	Sligo town	borough with	Royal Charter issued by British King James I
+45	Sligo town	incorporated borough with	Royal Charter issued by British King James I in 1613/14
+45	Sligo town	incorporated borough with	Royal Charter
+45	Sligo town	municipal borough with	Royal Charter issued in 1613/14
+45	Sligo town	municipal borough with	Royal Charter issued by British King James I
+45	Sligo town	became	borough with Royal Charter
+45	Sligo town	became	borough with Royal Charter issued in 1613/14
+45	Sligo town	incorporated borough with	Royal Charter issued by British King James I
+45	Sligo town	became	incorporated municipal borough with Royal Charter issued
+45	Sligo town	borough with	Royal Charter issued by British King James I in 1613/14
+45	Sligo town	became	incorporated borough with Royal Charter issued by British King James I in 1613/14
+45	Sligo town	municipal borough with	Royal Charter issued by British King James I in 1613/14
+45	Sligo town	became	municipal borough
+45	Sligo town	became	incorporated borough with Royal Charter issued
+45	Sligo town	became	municipal borough with Royal Charter issued by British King James I in 1613/14
+45	Sligo town	became	municipal borough with Royal Charter issued by British King James I
+45	Sligo town	became	incorporated municipal borough with Royal Charter issued by British King James I in 1613/14
+45	Sligo town	became	incorporated municipal borough
+45	Sligo town	borough with	Royal Charter issued
+45	Sligo town	incorporated municipal borough with	Royal Charter issued
+46	Tom McMorran	joined	band
+46	Tom McMorran	joined band in	1994
+47	she	makes	references relating to slang use
+47	she	also makes	references relating to slang use
+47	she	makes	veiled references relating to slang use of beaver
+47	she	also makes	veiled references relating
+47	she	makes	references relating to slang use of beaver
+47	veiled references	relating	innuendo
+47	she	also makes	references relating
+47	references	relating	innuendo
+47	veiled references	relating to	slang use
+47	references	relating to	slang use of beaver
+47	references	relating to	slang use
+47	veiled references	relating to	slang use of beaver
+47	she	also makes	veiled references relating to slang use
+47	she	makes	references relating
+47	she	makes	veiled references relating
+47	she	also makes	references relating to slang use of beaver
+47	she	reads	articles
+47	she	also makes	veiled references relating to slang use of beaver
+47	she	makes	veiled references relating to slang use
+48	someone	living alone	65 years of age
+48	%	were	made
+48	someone	living	65 years of age
+48	23.8 %	were	made
+48	someone	living alone	65 years
+48	someone	living	65 years
+48	23.8 %	had	someone
+48	%	were made up	up individuals
+48	%	had	someone
+48	23.8 %	were made up	up individuals
+50	British Army	had	had shown
+50	British Army	be	overstretched
+50	Army	had	had shown
+50	Army	be	overstretched
+50	mutiny	had led to	responsibility
+50	British Army	be overstretched by	Crimean War
+50	Army	be overstretched by	Crimean War
+51	seen	is	replica
+51	seen	is replica of	Shiva lingam
+52	leaf	contains	world map
+52	ninth leaf	contains	circular world map measuring
+52	ninth leaf	contains	circular world map
+52	ninth leaf	contains	world map measuring in circumference
+52	ninth leaf	contains	world map
+52	ninth leaf	contains	circular world map measuring in circumference
+52	leaf	contains	circular world map measuring in circumference
+52	ninth leaf	contains	world map measuring
+52	leaf	contains	circular world map
+52	leaf	contains	world map measuring
+52	leaf	contains	circular world map measuring
+52	leaf	contains	world map measuring in circumference
+53	Zomercarnaval	carnival in	Europe
+53	Zomercarnaval	called	carnival
+53	Zomercarnaval	called	Antillean carnival
+53	Zomercarnaval	originally called	carnival
+53	Zomercarnaval	originally called	Antillean carnival
+54	power cepstrum	is defined as	squared magnitude of Fourier transform
+54	power cepstrum	is defined as	squared magnitude of Fourier transform of logarithm
+54	power cepstrum	is defined as	squared magnitude transform
+54	power cepstrum	is defined as	squared magnitude transform of logarithm of magnitude
+54	power cepstrum	is defined as	magnitude of inverse Fourier transform of logarithm of magnitude
+54	power cepstrum	is defined as	squared magnitude of inverse Fourier transform of logarithm of magnitude of Fourier
+54	power cepstrum	is defined as	squared magnitude transform of logarithm of squared magnitude of Fourier
+54	power cepstrum	is defined as	magnitude transform
+54	power cepstrum	is defined as	magnitude transform of logarithm of squared magnitude
+54	power cepstrum	is defined as	magnitude of Fourier transform of logarithm of magnitude
+54	power cepstrum	is defined as	magnitude of Fourier
+54	power cepstrum	is defined as	squared magnitude of Fourier
+54	power cepstrum	is defined as	squared magnitude transform of logarithm of magnitude of Fourier
+54	power cepstrum	is defined as	magnitude transform of logarithm
+54	power cepstrum	is defined as	magnitude of inverse Fourier transform of logarithm of squared magnitude of Fourier
+54	power cepstrum	is defined as	magnitude
+54	power cepstrum	is defined as	squared magnitude of inverse Fourier
+54	power cepstrum	is defined as	squared magnitude of Fourier transform of logarithm of squared magnitude of Fourier
+54	power cepstrum	is defined as	magnitude of inverse Fourier transform of logarithm of squared magnitude
+54	power cepstrum	is defined as	magnitude transform of logarithm of magnitude of Fourier
+54	power cepstrum	is defined as	squared magnitude of Fourier transform of logarithm of magnitude
+54	power cepstrum	is defined as	magnitude of inverse Fourier
+54	power cepstrum	is defined as	squared magnitude of inverse Fourier transform of logarithm of magnitude
+54	power cepstrum	is defined as	squared magnitude transform of logarithm
+54	power cepstrum	is defined as	magnitude transform of logarithm of squared magnitude of Fourier
+54	power cepstrum	is defined as	magnitude of inverse Fourier transform of logarithm
+54	power cepstrum	is defined as	squared magnitude of inverse Fourier transform of logarithm of squared magnitude of Fourier
+54	power cepstrum	is defined as	magnitude transform of logarithm of magnitude
+54	power cepstrum	is defined as	magnitude of Fourier transform of logarithm of squared magnitude of Fourier
+54	power cepstrum	is defined as	squared magnitude of inverse Fourier transform
+54	power cepstrum	is defined as	squared magnitude of inverse Fourier transform of logarithm of squared magnitude
+54	power cepstrum	is defined as	magnitude of inverse Fourier transform of logarithm of magnitude of Fourier
+54	power cepstrum	is	defined
+54	power cepstrum	is defined as	squared magnitude transform of logarithm of squared magnitude
+54	power cepstrum	is defined as	magnitude of Fourier transform of logarithm of squared magnitude
+54	power cepstrum	is defined as	magnitude of Fourier transform of logarithm
+54	power cepstrum	is defined as	magnitude of Fourier transform
+54	power cepstrum	is defined as	squared magnitude of Fourier transform of logarithm of squared magnitude
+54	power cepstrum	is defined as	squared magnitude
+54	power cepstrum	is defined as	magnitude of Fourier transform of logarithm of magnitude of Fourier
+54	power cepstrum	is defined as	squared magnitude of inverse Fourier transform of logarithm
+54	power cepstrum	is defined as	magnitude of inverse Fourier transform
+54	power cepstrum	is defined as	squared magnitude of Fourier transform of logarithm of magnitude of Fourier
+56	Gideon Rodan	taught From	1970 to 1985
+56	Gideon Rodan	taught at	University of Connecticut
+56	Gideon Rodan	taught at	University
+57	These	are known as	Porter 's three generic strategies
+57	These	are known as	Porter 's three strategies
+57	These	are	known
+57	Porter	as	three generic strategies
+58	protocol	includes	support groups
+58	protocol	also includes	support groups
+60	They	acquired	Charles City Western
+60	They	acquired Charles City Western on	December 31 1963
+61	Hofmann	was born in	Salt Lake City
+61	Hofmann	was born in	Utah
+61	Hofmann	was	born
+62	Salahuddin	won In	1962
+62	Salahuddin	won from	Patharghatti assembly seat
+62	Salahuddin	won as	Independent candidate
+62	Salahuddin	won as	candidate
+63	all	speak	Minnan languages
+64	Childers 's book	remained	most powerful contribution of English writer to debate on Britain 's unpreparedness
+64	Britain	on	alleged military unpreparedness
+64	Childers 's book	remained	powerful contribution of English writer to debate on Britain 's unpreparedness
+64	Childers 's book	remained	powerful contribution of English writer to debate on Britain 's military unpreparedness
+64	Childers 's book	remained	most powerful contribution of English writer
+64	Childers 's book	remained	contribution of English writer to debate on Britain 's unpreparedness
+64	Childers 's book	powerful contribution of	English writer
+64	Childers 's book	remained	contribution of English writer to debate on Britain 's military unpreparedness
+64	Childers 's book	contribution of	English writer
+64	Childers 's book	remained For	ten years
+64	Childers 's book	remained	powerful contribution of English writer to debate
+64	Childers 's book	remained	powerful contribution of English writer to debate on Britain 's alleged unpreparedness
+64	Childers 's book	remained	contribution of English writer to debate on Britain 's alleged unpreparedness
+64	Childers 's book	remained	contribution of English writer
+64	Childers 's book	remained	most powerful contribution of English writer to debate on Britain 's military unpreparedness
+64	Childers 's book	remained	powerful contribution of English writer to debate on Britain 's alleged military unpreparedness
+64	Childers 's book	remained	most powerful contribution of English writer to debate on Britain 's alleged military unpreparedness
+64	Childers 's book	remained	powerful contribution of English writer
+64	Childers 's book	most powerful contribution of	English writer
+64	Childers 's book	remained	contribution of English writer to debate
+64	Childers 's book	remained	most powerful contribution of English writer to debate
+64	Childers 's book	remained	contribution of English writer to debate on Britain 's alleged military unpreparedness
+64	Childers 's book	remained For	next ten years
+64	Childers 's book	remained	most powerful contribution of English writer to debate on Britain 's alleged unpreparedness
+66	judge	ordered	case reviewed
+66	different judge	ordered	case reviewed
+66	judge	ordered	case reviewed by higher court
+66	different judge	ordered	case reviewed by court
+66	judge	ordered	case
+66	different judge	ordered	case
+66	different judge	ordered	case reviewed by higher court
+66	judge	ordered	case reviewed by court
+67	environmental factors	are understood	contribute heavily to strength
+67	factors	are understood	contribute
+67	environmental factors	contribute heavily to	strength of relationships
+67	factors	are also understood	contribute heavily to strength of intimate relationships
+67	factors	contribute to	strength
+67	factors	are also understood	contribute heavily to strength
+67	factors	are also understood	contribute heavily to strength of relationships
+67	environmental factors	are also understood	contribute
+67	environmental factors	are	also understood
+67	factors	are also understood As	result
+67	environmental factors	contribute to	strength
+67	environmental factors	are also understood	contribute heavily to strength of relationships
+67	factors	contribute heavily to	strength of relationships
+67	factors	are	also understood
+67	factors	are also understood	contribute heavily
+67	environmental factors	are understood As	result
+67	environmental factors	are also understood	contribute to strength
+67	factors	are understood	contribute heavily to strength of relationships
+67	environmental factors	are also understood	contribute to strength of relationships
+67	environmental factors	are understood	contribute heavily to strength of intimate relationships
+67	environmental factors	are understood	contribute
+67	factors	are understood As	result
+67	factors	are understood	contribute heavily to strength
+67	factors	contribute heavily to	strength
+67	environmental factors	are understood	contribute heavily to strength of relationships
+67	factors	are understood	contribute to strength of intimate relationships
+67	environmental factors	are understood	contribute to strength
+67	environmental factors	are also understood	contribute to strength of intimate relationships
+67	factors	contribute heavily to	strength of intimate relationships
+67	factors	are	understood
+67	environmental factors	contribute heavily to	strength
+67	environmental factors	are understood	contribute to strength of intimate relationships
+67	factors	are understood	contribute heavily to strength of intimate relationships
+67	environmental factors	are understood	contribute to strength of relationships
+67	factors	are also understood	contribute to strength of relationships
+67	environmental factors	are also understood	contribute heavily
+67	environmental factors	are also understood	contribute heavily to strength
+67	environmental factors	contribute to	strength of intimate relationships
+67	factors	are also understood	contribute to strength
+67	factors	contribute to	strength of relationships
+67	environmental factors	are	understood
+67	factors	contribute to	strength of intimate relationships
+67	environmental factors	are also understood	contribute heavily to strength of intimate relationships
+67	factors	are understood	contribute heavily
+67	factors	are understood	contribute to strength
+67	factors	are also understood	contribute to strength of intimate relationships
+67	environmental factors	contribute heavily to	strength of intimate relationships
+67	environmental factors	are also understood As	result
+67	factors	are also understood	contribute
+67	environmental factors	contribute to	strength of relationships
+67	environmental factors	are understood	contribute heavily
+67	factors	are understood	contribute to strength of relationships
+68	thermal relief valves	are generally characterized by	small size of valve necessary
+68	relief valves	are	For vessels generally characterized by size of valve necessary
+68	relief valves	are	For liquid-packed vessels characterized by relatively small size of valve
+68	thermal relief valves	are	For liquid-packed vessels generally characterized by size of valve necessary
+68	relief valves	are generally characterized by	size of valve necessary
+68	thermal relief valves	are	For vessels generally characterized by small size of valve necessary
+68	relief valves	are	For vessels characterized by small size
+68	thermal relief valves	are	For liquid-packed vessels characterized by small size
+68	thermal relief valves	are	For liquid-packed vessels characterized by relatively small size
+68	thermal relief valves	are	For liquid-packed vessels generally characterized by relatively small size of valve
+68	relief valves	are characterized by	relatively small size
+68	thermal relief valves	are generally characterized For	vessels
+68	relief valves	are generally characterized by	relatively small size of valve necessary
+68	thermal relief valves	are	For vessels characterized by relatively small size of valve
+68	thermal relief valves	are	For vessels generally characterized by size of valve necessary
+68	relief valves	are	For liquid-packed vessels generally characterized by small size
+68	thermal relief valves	are	For vessels generally characterized by small size of valve
+68	relief valves	are	For liquid-packed vessels generally characterized by relatively small size of valve
+68	thermal relief valves	are	For liquid-packed vessels characterized by relatively small size of valve necessary
+68	relief valves	are generally characterized by	small size
+68	relief valves	are generally characterized by	small size of valve necessary
+68	thermal relief valves	are	For vessels characterized by small size of valve
+68	thermal relief valves	are	For vessels characterized by relatively small size
+68	thermal relief valves	are characterized by	relatively small size of valve necessary
+68	relief valves	are	For vessels characterized by size of valve
+68	relief valves	are	For vessels generally characterized by size of valve
+68	thermal relief valves	are characterized For	vessels
+68	thermal relief valves	are	For vessels generally characterized by size of valve
+68	thermal relief valves	are generally characterized For	liquid-packed vessels
+68	thermal relief valves	are generally characterized by	relatively small size of valve
+68	relief valves	are generally characterized For	liquid-packed vessels
+68	relief valves	are generally characterized by	size of valve
+68	relief valves	are characterized For	vessels
+68	relief valves	are characterized by	size
+68	relief valves	are	For liquid-packed vessels generally characterized by relatively small size of valve necessary
+68	thermal relief valves	are generally characterized by	size
+68	relief valves	are	For liquid-packed vessels characterized by small size of valve
+68	relief valves	are	For liquid-packed vessels generally characterized by small size of valve
+68	thermal relief valves	are characterized For	liquid-packed vessels
+68	thermal relief valves	are generally characterized by	size of valve necessary
+68	thermal relief valves	are	For vessels generally characterized by size
+68	thermal relief valves	are	For liquid-packed vessels characterized by small size of valve
+68	relief valves	are	For vessels generally characterized by small size of valve
+68	relief valves	are generally characterized For	vessels
+68	thermal relief valves	are	For vessels generally characterized by small size
+68	relief valves	are characterized by	small size of valve
+68	thermal relief valves	are	characterized
+68	relief valves	are	For vessels generally characterized by relatively small size of valve
+68	thermal relief valves	are	For liquid-packed vessels generally characterized by relatively small size of valve necessary
+68	relief valves	are generally characterized by	relatively small size of valve
+68	relief valves	are	For liquid-packed vessels characterized by small size of valve necessary
+68	relief valves	are characterized by	size of valve necessary
+68	relief valves	are generally characterized by	small size of valve
+68	thermal relief valves	are generally characterized by	small size of valve
+68	relief valves	are characterized by	relatively small size of valve necessary
+68	relief valves	are	For liquid-packed vessels characterized by size
+68	relief valves	are	For vessels generally characterized by relatively small size of valve necessary
+68	relief valves	are	For vessels characterized by relatively small size of valve
+68	relief valves	are characterized by	small size
+68	relief valves	are	For liquid-packed vessels generally characterized by size of valve necessary
+68	thermal relief valves	are	For vessels characterized by size
+68	thermal relief valves	are	For liquid-packed vessels generally characterized by small size of valve necessary
+68	thermal relief valves	are	For liquid-packed vessels generally characterized by relatively small size
+68	thermal relief valves	are	For vessels generally characterized by relatively small size of valve
+68	relief valves	are	For liquid-packed vessels characterized by small size
+68	thermal relief valves	are	For liquid-packed vessels characterized by relatively small size of valve
+68	thermal relief valves	are	For liquid-packed vessels characterized by small size of valve necessary
+68	thermal relief valves	are	For vessels characterized by small size
+68	thermal relief valves	are	For liquid-packed vessels generally characterized by size of valve
+68	relief valves	are	For vessels generally characterized by small size of valve necessary
+68	relief valves	are	For liquid-packed vessels characterized by relatively small size
+68	thermal relief valves	are	For vessels generally characterized by relatively small size of valve necessary
+68	thermal relief valves	are characterized by	small size
+68	thermal relief valves	are	generally characterized
+68	relief valves	are	For vessels characterized by small size of valve
+68	thermal relief valves	are	For vessels characterized by size of valve necessary
+68	thermal relief valves	are	For liquid-packed vessels characterized by size
+68	thermal relief valves	are generally characterized by	relatively small size of valve necessary
+68	thermal relief valves	are characterized by	relatively small size of valve
+68	thermal relief valves	are	For liquid-packed vessels generally characterized by small size of valve
+68	relief valves	are	For vessels characterized by relatively small size
+68	relief valves	are	For vessels generally characterized by relatively small size
+68	relief valves	are	For vessels generally characterized by small size
+68	thermal relief valves	are characterized by	size of valve necessary
+68	thermal relief valves	are	For liquid-packed vessels generally characterized by small size
+68	thermal relief valves	are generally characterized by	size of valve
+68	relief valves	are generally characterized by	size
+68	relief valves	are	For liquid-packed vessels generally characterized by size of valve
+68	thermal relief valves	are	For vessels characterized by relatively small size of valve necessary
+68	relief valves	are characterized by	relatively small size of valve
+68	thermal relief valves	are	For vessels characterized by size of valve
+68	thermal relief valves	are characterized by	size
+68	relief valves	are	For liquid-packed vessels generally characterized by relatively small size
+68	thermal relief valves	are characterized by	relatively small size
+68	thermal relief valves	are characterized by	small size of valve
+68	relief valves	are	For liquid-packed vessels generally characterized by size
+68	relief valves	are	For vessels generally characterized by size
+68	relief valves	are characterized by	small size of valve necessary
+68	relief valves	are	characterized
+68	thermal relief valves	are	For liquid-packed vessels characterized by size of valve
+68	relief valves	are	generally characterized
+68	thermal relief valves	are generally characterized by	small size
+68	thermal relief valves	are	For vessels generally characterized by relatively small size
+68	relief valves	are	For vessels characterized by small size of valve necessary
+68	relief valves	are characterized by	size of valve
+68	relief valves	are characterized For	liquid-packed vessels
+68	thermal relief valves	are generally characterized by	relatively small size
+68	thermal relief valves	are	For vessels characterized by small size of valve necessary
+68	relief valves	are	For vessels characterized by size of valve necessary
+68	thermal relief valves	are characterized by	small size of valve necessary
+68	relief valves	are generally characterized by	relatively small size
+68	relief valves	are	For liquid-packed vessels characterized by size of valve
+68	relief valves	are	For vessels characterized by relatively small size of valve necessary
+68	thermal relief valves	are	For liquid-packed vessels generally characterized by size
+68	thermal relief valves	are	For liquid-packed vessels characterized by size of valve necessary
+68	thermal relief valves	are characterized by	size of valve
+68	relief valves	are	For liquid-packed vessels characterized by relatively small size of valve necessary
+68	relief valves	are	For vessels characterized by size
+68	relief valves	are	For liquid-packed vessels generally characterized by small size of valve necessary
+68	relief valves	are	For liquid-packed vessels characterized by size of valve necessary
+69	Japanese pilot	on	funeral
+70	she	became ill	this
+70	she	became very ill	this
+70	she	became	this
+71	Henry Wood Hall	is in	Glasgow
+71	RSNO 's base	is used as	its recording venue
+71	RSNO 's base	is	used
+71	RSNO 's base	is also used as	its recording venue
+71	RSNO 's base	is	also used
+72	His main power	is	form
+72	His power	is	form
+72	His	power	Omega Beam
+72	he	fires	that
+73	2005 model	introduced row to	Pathfinder line for first time
+73	2005 model	introduced	third row of seats
+73	model	introduced	third row of seats
+73	model	introduced row to	Pathfinder line for time
+73	2005 model	introduced row to	Pathfinder line
+73	2005 model	introduced	row of seats
+73	2005 model	introduced	row
+73	model	introduced	third row
+73	model	introduced row to	Pathfinder line
+73	2005 model	introduced row to	Pathfinder line for time
+73	model	introduced row to	Pathfinder line for first time
+73	model	introduced	row
+73	2005 model	introduced	third row
+73	model	introduced	row of seats
+74	district	provides recreation services to	many non-residents of area
+74	district	also provides recreation services to	many non-residents of area
+74	district	provides recreation services to	non-residents of area
+74	district	also provides recreation services to	non-residents of area
+75	very ease	might even accelerate	process
+75	very ease	might accelerate	process
+75	ease	might accelerate	process
+75	ease	might even accelerate	process
+76	he	had	had murdered
+76	Hauptmann	looked	different
+76	he	had	had murdered by his confederates
+76	John	was	actually dead
+76	John	was	dead
+77	RSNO	also performs at	venues
+77	RSNO	performs at	venues
+77	RSNO	performs at	venues as Glasgow Royal Concert Hall
+77	RSNO	also performs throughout	Scotland
+77	RSNO	performs at	such venues
+77	RSNO	performs at	such venues as Glasgow Royal Concert Hall
+77	RSNO	performs throughout	Scotland
+77	RSNO	also performs at	such venues
+77	RSNO	also performs at	such venues as Glasgow Royal Concert Hall
+77	RSNO	also performs at	venues as Glasgow Royal Concert Hall
+78	Alvarez	was reunited with	his family
+78	reunited	was	able
+78	reunited	start	business
+78	Alvarez	was	Five years later reunited
+78	Alvarez	later was reunited with	his family in New York
+78	Alvarez	later was reunited with	his family
+78	Alvarez	was	Five years later reunited with his family
+78	Alvarez	was reunited with	his family in New York
+78	reunited	start	business in Hoboken
+78	Alvarez	was	Five years later reunited with his family in New York
+78	Alvarez	was	reunited
+78	Alvarez	was	later reunited
+79	Anti-Monitor	siphon	positive matter of New York City
+79	Anti-Monitor	siphon	matter
+79	Anti-Monitor	siphon	positive matter
+79	Anti-Monitor	siphon	matter of New York City
+81	He	develops	significance
+81	He	develops	significance as character
+81	He	develops	significance as recurrent character
+81	He	develops	significance as character in series
+81	He	develops	significance as recurrent character in series
+82	Davis	released	most of them big R&B sellers produced by Willie Henderson
+82	Davis	released	big R&B sellers produced by Willie Henderson
+83	popular internet reviewers RedLetterMedia	drawing comparisons to	Three Stooges
+83	internet reviewers RedLetterMedia	delivered video critique In	2010
+83	internet reviewers RedLetterMedia	drawing comparisons to	Three Stooges
+83	popular internet reviewers RedLetterMedia	delivered video critique In	2010
+83	popular internet reviewers RedLetterMedia	delivered	scathing video critique of film
+83	internet reviewers RedLetterMedia	delivered	video critique
+83	internet reviewers RedLetterMedia	delivered	video critique of film
+83	internet reviewers RedLetterMedia	delivered	scathing video critique of film
+83	popular internet reviewers RedLetterMedia	drawing	comparisons
+83	internet reviewers RedLetterMedia	drawing	negative comparisons
+83	popular internet reviewers RedLetterMedia	delivered	scathing video critique
+83	popular internet reviewers RedLetterMedia	delivered	video critique of film
+83	internet reviewers RedLetterMedia	delivered	scathing video critique
+83	popular internet reviewers RedLetterMedia	drawing	negative comparisons
+83	popular internet reviewers RedLetterMedia	delivered	video critique
+83	internet reviewers RedLetterMedia	drawing	comparisons
+84	repeated attempts	were Within	England
+84	attempts	leading to	uprisings
+84	attempts	leading to	severe uprisings
+84	repeated attempts	regain	throne
+84	attempts	were Within	England
+84	repeated attempts	leading to	uprisings
+84	attempts	regain	throne
+84	repeated attempts	leading to	severe uprisings
+85	squadrons	recalled to	back active duty during War
+85	squadrons	recalled to	back duty
+85	squadrons	recalled to	duty
+85	squadrons	recalled to	back duty during War
+85	squadrons	mobilized	personnel
+85	squadrons	recalled to	duty during War
+85	squadrons	were	when mobilized
+85	squadrons	were	mobilized
+85	squadrons	recalled to	active duty during War
+85	squadrons	recalled	personnel
+85	squadrons	recalled to	back duty during Korean War
+85	squadrons	recalled to	back active duty during Korean War
+85	squadrons	recalled to	active duty
+85	squadrons	recalled to	duty during Korean War
+85	squadrons	recalled to	active duty during Korean War
+85	squadrons	recalled to	back active duty
+86	baskets	surrounding	them
+86	clathrate-like baskets	merge For	example
+86	clathrate-like baskets	surrounding	them
+86	baskets	merge For	example
+87	love	is behind	Antiochus 's suffering
+87	Antiochus	behind	suffering
+89	practice	encountered	resistance
+89	practice	encountered	attempted
+89	practice	encountered	considerable resistance
+91	He	had at	had Battle
+91	He	had at	had Battle of Granicus River
+92	Inge	walks through	fields
+92	Olaf	to	house
+92	film	uses	graphics
+92	Olaf	over	house
+92	Inge	take	bath
+92	Inge	walks to	Olaf 's house
+92	film	uses	computer-generated graphics
+93	remarriage prohibition	receive	death benefits
+93	remarriage prohibition	receive	death benefits for spouses
+93	remarriage prohibition	receive	death benefits for spouses of police officers killed
+93	Legislation	sponsored by	Sweeney
+93	remarriage prohibition	receive	death benefits for spouses of police officers
+93	remarriage prohibition	receive	death benefits for spouses killed
+94	latter	was lifted as	b-side Keep
+94	latter	was lifted as	b-side Keep on Loving
+94	latter	was lifted as	only b-side Keep on Loving
+94	latter	was lifted as	only b-side
+94	latter	was lifted as	b-side
+94	latter	was lifted as	only b-side Keep
+94	latter	was	lifted
+95	single	features	performances by keyboardist Philippe Saisse
+95	first single	features	performances by keyboardist Philippe Saisse
+95	single	features	performances
+95	first single	features	performances
+97	it	was	direct
+97	it	was	response
+97	it	was response to	his efforts
+97	it	was	direct response
+97	it	was direct response to	his efforts
+98	companies	are	allies of Navigation Mixte in its fight against hostile takeover bid launched week by Cie
+98	companies	are	allies of Navigation Mixte in its fight against hostile takeover bid launched last week by Cie
+98	companies	are allies in	its fight against takeover bid launched week by Cie
+98	companies	are allies in	its fight against hostile takeover bid launched
+98	companies	are allies in	its fight against takeover bid launched by Cie
+98	companies	are allies in	its fight against takeover bid launched last week
+98	companies	are	allies of Navigation Mixte in its fight against hostile takeover bid launched last week
+98	companies	are	allies
+98	companies	are	allies of Navigation Mixte in its fight
+98	companies	are	allies of Navigation Mixte in its fight against takeover bid launched
+98	companies	are	allies of Navigation Mixte in its fight against hostile takeover bid launched week
+98	companies	are	allies of Navigation Mixte in its fight against hostile takeover bid launched by Cie
+98	companies	are	allies of Navigation Mixte in its fight against takeover bid launched last week
+98	companies	are allies in	its fight
+98	companies	are allies in	its fight against takeover bid
+98	companies	are allies in	its fight against hostile takeover bid launched last week by Cie
+98	companies	are allies in	its fight against hostile takeover bid launched week by Cie
+98	companies	are allies in	its fight against hostile takeover bid
+98	companies	are	allies of Navigation Mixte in its fight against hostile takeover bid launched
+98	companies	are	allies of Navigation Mixte in its fight against takeover bid launched week
+98	companies	are	allies of Navigation Mixte in its fight against takeover bid launched by Cie
+98	companies	are allies in	its fight against takeover bid launched week
+98	companies	are allies in	its fight against takeover bid launched
+98	companies	are allies in	its fight against hostile takeover bid launched week
+98	companies	are	allies of Navigation Mixte in its fight against takeover bid launched week by Cie
+98	companies	are allies in	its fight against hostile takeover bid launched by Cie
+98	companies	are allies in	its fight against takeover bid launched last week by Cie
+98	companies	are	allies of Navigation Mixte in its fight against takeover bid
+98	companies	are allies of	Navigation Mixte
+98	companies	are allies in	its fight against hostile takeover bid launched last week
+98	companies	are	allies of Navigation Mixte in its fight against hostile takeover bid
+98	companies	are	allies of Navigation Mixte in its fight against takeover bid launched last week by Cie
+99	he	became	Lord Justice
+99	he	became After	break
+99	he	became	Lord Justice of Appeal
+99	he	became After	break of four years
+101	Paul Johanson	director of	plant sciences
+102	Ms. Waleson	is	lance writer
+102	Ms. Waleson	is	free lance writer
+102	Ms. Waleson	is	free lance writer based in New York
+102	Ms. Waleson	is	lance writer based in New York
+102	Ms. Waleson	is	free lance writer based
+102	Waleson	is	free
+102	Ms. Waleson	is	lance writer based
+104	Mrs. Marcos 's trial	begin in	March
+104	Mrs. Marcos 's trial	is expected	begin
+104	Mrs. Marcos 's trial	is expected	begin in March
+104	Mrs. Marcos 's trial	is	expected
+106	WPP Group	by	Ogilvy in New York
+106	company	spend	about $ 30 million year
+106	company	is expected	created
+106	company	spend	about $ 30 million
+106	company	is	expected
+106	company	spend	$ 30 million year
+106	company	created by	WPP Group 's Ogilvy
+106	company	spend	$ 30 million
+106	WPP Group 's Ogilvy	is in	New York
+106	company	created by	WPP Group 's Ogilvy in New York
+106	company	is expected	created by WPP Group 's Ogilvy
+106	company	is expected	created by WPP Group 's Ogilvy in New York
+107	Great Northern Nekoosa	soared	$ 20.125
+107	Great Northern Nekoosa	soared	$ 20.125 share
+107	Great Northern Nekoosa	soared to	$ 62.875
+114	His appearance	was case in	point
+114	His appearance	was	case
+114	His recent appearance	was case in	point
+114	His recent appearance	was	case
+116	brokerage firm	tracks	technology stocks
+117	I	worry	more things
+117	I	worry	more about things becoming
+117	I	worry	more
+117	I	worry	more things becoming
+117	I	worry	more about things
+118	We	punching	air
+118	it	basket into	trailer
+118	us	disassemble	our craft
+118	precision routine	yanking	balloon
+118	We	punching air out of	it
+118	precision routine	yanking balloon to	ground
+119	federation official	attributed decline to	brisk demand
+119	federation official	attributed decline to	brisk demand from industries
+119	federation official	attributed decline to	brisk demand from industries backed by economic expansion in Japan
+119	federation official	attributed decline to	demand from domestic industries backed by continuing economic expansion
+119	federation official	attributed decline to	demand from industries backed by continuing expansion
+119	federation official	attributed decline to	demand from domestic industries backed by continuing expansion in Japan
+119	federation official	attributed decline to	demand from industries
+119	federation official	attributed decline to	demand from domestic industries backed by expansion
+119	federation official	attributed decline to	demand from domestic industries backed by continuing expansion
+119	federation official	attributed decline to	brisk demand from domestic industries backed by economic expansion
+119	federation official	attributed decline to	demand from industries backed by economic expansion
+119	federation official	attributed decline to	brisk demand from industries backed by expansion in Japan
+119	federation official	attributed decline to	demand from domestic industries backed by economic expansion
+119	federation official	attributed decline to	brisk demand from domestic industries backed by continuing expansion in Japan
+119	federation official	attributed decline to	brisk demand from industries backed by expansion
+119	federation official	attributed decline to	brisk demand from domestic industries backed by economic expansion in Japan
+119	federation official	attributed decline to	brisk demand from domestic industries
+119	federation official	attributed decline to	demand from industries backed by continuing expansion in Japan
+119	federation official	attributed decline to	brisk demand from domestic industries backed
+119	federation official	attributed decline to	brisk demand from industries backed by continuing economic expansion
+119	federation official	attributed decline to	brisk demand from domestic industries backed by expansion in Japan
+119	federation official	attributed decline to	demand from industries backed by economic expansion in Japan
+119	federation official	attributed decline to	brisk demand from industries backed by continuing economic expansion in Japan
+119	federation official	attributed decline to	brisk demand from domestic industries backed by expansion
+119	federation official	attributed decline to	demand from domestic industries backed by economic expansion in Japan
+119	federation official	attributed decline to	demand from domestic industries
+119	federation official	attributed decline to	brisk demand from industries backed by continuing expansion in Japan
+119	federation official	attributed decline to	demand from domestic industries backed by continuing economic expansion in Japan
+119	federation official	attributed decline to	demand from industries backed by continuing economic expansion
+119	federation official	attributed	decline
+119	federation official	attributed decline to	demand from industries backed
+119	federation official	attributed decline to	brisk demand from domestic industries backed by continuing expansion
+119	federation official	attributed decline to	demand
+119	federation official	attributed decline to	brisk demand from domestic industries backed by continuing economic expansion in Japan
+119	federation official	attributed decline to	brisk demand from domestic industries backed by continuing economic expansion
+119	federation official	attributed decline to	brisk demand from industries backed by continuing expansion
+119	federation official	attributed decline to	demand from industries backed by expansion in Japan
+119	federation official	attributed decline to	demand from industries backed by expansion
+119	federation official	attributed decline to	brisk demand from industries backed by economic expansion
+119	federation official	attributed decline to	demand from domestic industries backed by expansion in Japan
+119	federation official	attributed decline to	brisk demand from industries backed
+119	federation official	attributed decline to	demand from industries backed by continuing economic expansion in Japan
+119	federation official	attributed decline to	demand from domestic industries backed
+123	% yield	represents	spread to Treasury of 2.45 percentage points
+123	10.48 % yield	represents	spread to 20 year Treasury
+123	% yield	represents	spread
+123	10.48 % yield	represents	spread to Treasury of 2.45 percentage points
+123	10.48 % yield	represents	spread to Treasury
+123	% yield	represents	spread to 20 year Treasury of 2.45 percentage points
+123	10.48 % yield	represents	spread
+123	% yield	represents	spread to Treasury
+123	% yield	represents	spread to 20 year Treasury
+123	10.48 % yield	represents	spread to 20 year Treasury of 2.45 percentage points
+125	I	meeting	girls
+127	other countries	have approved Proleukin in	recent months
+127	Four other countries	have approved Proleukin in	recent months
+127	other countries	have approved Proleukin in	months
+127	Four other countries	have approved Proleukin in	months
+128	General Dynamics Corp.	was given	$ 843 million Air Force contract for F
+128	General Dynamics Corp.	was given	Air Force contract
+128	General Dynamics Corp.	was given	$ 843 million Air Force contract
+128	General Dynamics Corp.	was given	Air Force contract for F
+129	divested Courtaulds textile operations	had	operating profit of # 50 million
+129	Courtaulds textile operations	had operating profit on	# 980 million in revenue
+129	divested Courtaulds textile operations	had operating profit in	year ended March 31
+129	Courtaulds textile operations	had operating profit in	year ended
+129	divested Courtaulds textile operations	had operating profit in	year ended
+129	year	ended	March 31
+129	divested Courtaulds textile operations	had operating profit on	# 980 million in revenue
+129	Courtaulds textile operations	had	operating profit
+129	Courtaulds textile operations	had operating profit in	year ended March 31
+129	divested Courtaulds textile operations	had	operating profit
+129	divested Courtaulds textile operations	had operating profit in	year
+129	Courtaulds textile operations	had operating profit in	year
+129	Courtaulds textile operations	had	operating profit of # 50 million
+130	Monroe couple	are	demons
+130	Monroe couple	are	perfect demons
+130	it	busting	ghosts
+132	that	satisfies	creditors
+132	that	leaves	Revco
+132	that	leaves	healthy Revco
+132	that	leaves Revco at	end
+135	he	combined	them
+135	he	indeed combined	them
+136	Japanese businesses	make	decisions
+136	businesses	make	decisions with view
+136	Japanese businesses	make	decisions with view
+136	decisions	is with	view well beyond coming months
+136	businesses	make	decisions
+138	big Japanese investors	are buying	U.S. mortgage
+138	More big Japanese investors	are buying	U.S. mortgage
+139	economic structures	are intended	conform to model other
+139	Soviet economic structures	are intended	conform
+139	economic structures	are intended	conform to model
+139	new Soviet economic structures	are	intended
+139	new Soviet economic structures	conform to	model
+139	economic structures	are intended	conform to model other than that
+139	new Soviet economic structures	are intended	conform to model
+139	Soviet structures	are intended	conform to model other
+139	new Soviet structures	conform to	model other than that of market
+139	economic structures	are intended	conform to model other than that of market
+139	new structures	are	intended
+139	Soviet economic structures	are intended	conform to model other than that
+139	new Soviet structures	are intended	conform to model other than that of market
+139	new economic structures	are intended	conform to model other
+139	new economic structures	are intended	conform
+139	Soviet economic structures	conform to	model other
+139	new Soviet structures	are	intended
+139	new structures	conform to	model other than that
+139	Soviet economic structures	are intended	conform to model other
+139	structures	are intended	conform to model other than that of market
+139	structures	are	intended
+139	new Soviet structures	are intended	conform
+139	new structures	are intended	conform to model other than that of market
+139	new structures	conform to	model other than that of market
+139	new economic structures	conform to	model other than that of market
+139	Soviet economic structures	conform to	model other than that of market
+139	new structures	are intended	conform to model
+139	new economic structures	are intended	conform to model other than that
+139	new Soviet structures	conform to	model
+139	new Soviet economic structures	conform to	model other than that of market
+139	new structures	are intended	conform
+139	economic structures	conform to	model other
+139	Soviet structures	conform to	model other
+139	new structures	are intended	conform to model other than that
+139	new Soviet structures	conform to	model other than that
+139	structures	conform to	model other than that of market
+139	Soviet structures	are	intended
+139	new Soviet economic structures	are intended	conform to model other
+139	Soviet structures	are intended	conform to model other than that of market
+139	new structures	conform to	model other
+139	Soviet structures	conform to	model
+139	new structures	conform to	model
+139	structures	are intended	conform to model other
+139	economic structures	are	intended
+139	new economic structures	conform to	model other
+139	new structures	are intended	conform to model other
+139	new Soviet economic structures	are intended	conform to model other than that
+139	new economic structures	are intended	conform to model
+139	Soviet economic structures	are intended	conform to model
+139	Soviet structures	conform to	model other than that
+139	new economic structures	conform to	model
+139	structures	are intended	conform to model
+139	Soviet economic structures	are intended	conform to model other than that of market
+139	new Soviet economic structures	are intended	conform to model other than that of market
+139	Soviet structures	are intended	conform to model
+139	new Soviet economic structures	are intended	conform
+139	new economic structures	are intended	conform to model other than that of market
+139	new Soviet economic structures	conform to	model other
+139	Soviet structures	conform to	model other than that of market
+139	Soviet economic structures	conform to	model other than that
+139	economic structures	conform to	model other than that of market
+139	structures	conform to	model
+139	economic structures	conform to	model
+139	structures	are intended	conform
+139	structures	are intended	conform to model other than that
+139	new Soviet structures	are intended	conform to model
+139	new Soviet structures	are intended	conform to model other than that
+139	new Soviet structures	conform to	model other
+139	new economic structures	are	intended
+139	structures	conform to	model other
+139	economic structures	are intended	conform
+139	Soviet economic structures	conform to	model
+139	Soviet structures	are intended	conform
+139	Soviet economic structures	are	intended
+139	new economic structures	conform to	model other than that
+139	economic structures	conform to	model other than that
+139	Soviet structures	are intended	conform to model other than that
+139	new Soviet structures	are intended	conform to model other
+139	structures	conform to	model other than that
+139	new Soviet economic structures	conform to	model other than that
+140	RU-486	is	is administered under strict supervision in presence of doctor
+140	RU-486	is	is administered in France under strict supervision
+140	RU-486	is	is administered in France under supervision in presence of doctor
+140	RU-486	is	is administered under strict supervision in presence
+140	RU-486	is	is administered under supervision in presence of doctor
+140	RU-486	is	is administered in France under supervision in presence
+140	RU-486	is	is administered only under strict supervision in presence of doctor
+140	RU-486	is	is administered in France only under supervision in presence of doctor
+140	RU-486	is	is administered under strict supervision
+140	RU-486	is	is administered only under strict supervision
+140	RU-486	is	is administered in France under supervision
+140	RU-486	is	is administered under supervision
+140	RU-486	is	is administered in France under strict supervision in presence of doctor
+140	strict supervision	is in	presence of doctor
+140	RU-486	is	is administered in France under strict supervision in presence
+140	RU-486	is	is administered in France only under strict supervision
+140	RU-486	is	is administered under supervision in presence
+140	RU-486	is	is administered
+140	RU-486	is	is administered only under supervision in presence
+140	RU-486	is	is administered in France only under strict supervision in presence of doctor
+140	RU-486	is	is administered in France only under supervision
+140	RU-486	is	is administered in France only under strict supervision in presence
+140	RU-486	is	is administered only under supervision
+140	RU-486	is	is administered only under strict supervision in presence
+140	RU-486	is	is administered in France only under supervision in presence
+140	RU-486	is	is administered in France
+140	RU-486	is	is administered only under supervision in presence of doctor
+141	it	offer on	wage
+141	President Bush	made	final take
+141	it	offer on	minimum wage
+141	President Bush	made	take
+142	Mazda	will extend to	five years
+143	New York City issue	included	$ 757 million of tax exempt bonds
+143	New York City issue	included	$ 757 million of tax bonds
+143	New York City issue	included	$ 757 million tax exempt bonds
+143	New York City issue	included	$ 757 million tax bonds
+143	New York City issue	included	$ 757 million of tax bonds priced
+143	New York City issue	included	$ 757 million
+143	New York City issue	included	$ 757 million of tax exempt bonds priced
+143	New York City issue	included	$ 757 million tax exempt bonds priced
+143	New York City issue	included	$ 757 million tax bonds priced
+144	lawyers	were as	just eager
+144	lawyers	were as	eager
+145	Swanson	headed for	Wall Street
+145	Swanson	headed in	1980
+146	Japan 's No. 111 % bond due 1998	ended on	brokers screens
+146	Japan 's No. 111 4.6 % bond due 1998	ended on	brokers screens
+146	Japan 's No. 111 4.6 % bond due 1998	ended at	95.11
+146	Japan 's No. 111 % bond due 1998	ended at	95.11
+146	Japan 's No. 111 % bond due 1998	yield	5.43 %
+146	Japan 's No. 111 4.6 % bond due 1998	yield	5.43 %
+147	He	accused	Dow Jones
+148	They	getting	major wins
+148	They	getting	wins
+149	Armstrong World Industries Inc.	agreed in	principle
+149	Armstrong World Industries Inc.	sell	its carpet operations
+151	Interstate Johnson Lane Inc.	adds	70 people
+152	Eastern	are in	final stages
+152	delicate stages	negotiating	second reorganization plan
+152	final delicate stages	negotiating	reorganization plan
+152	stages	negotiating	second reorganization plan
+152	Eastern	are in	final delicate stages
+152	Eastern	are in	stages
+152	Eastern	are in	delicate stages
+152	final stages	negotiating	second reorganization plan
+152	final stages	negotiating	reorganization plan
+152	delicate stages	negotiating	reorganization plan
+152	final delicate stages	negotiating	second reorganization plan
+152	stages	negotiating	reorganization plan
+154	investment broker	raised cattle for	four
+154	investment broker	raised	son of former stable owner
+154	investment broker	raised	cattle
+154	investment broker	raised	ex accountant
+154	investment broker	raised	son
+154	investment broker	raised	son of former owner
+155	Mr. Baker	heads	Kentucky Association of Science Educators
+155	Mr. Baker	heads	Kentucky Association
+156	issues	were	unchanged
+156	224 issues	were	unchanged
+157	Armstrong	reassure	its investors
+158	apparent shrinkage	was	how caused
+158	apparent shrinkage	was caused by	perspective
+158	apparent shrinkage	was	how caused by perspective
+158	apparent shrinkage	was	caused
+158	carpenter	with	level carefully measured
+159	cafeteria	is also located on	floor
+159	cafeteria	is	also located
+159	cafeteria	is located on	floor
+159	cafeteria	is also located on	chapel
+159	cafeteria	is located on	chapel on floor
+159	cafeteria	is also located on	chapel on 14th floor
+159	cafeteria	is located on	chapel on 14th floor
+159	cafeteria	is also located on	chapel on floor
+159	sixth floor	chapel on	14th floor
+159	cafeteria	is	located
+159	cafeteria	is also located on	sixth floor
+159	cafeteria	is located on	sixth floor
+159	cafeteria	is located on	chapel
+161	they	were Guardians of	Israelite religion
+161	they	were Guardians of	true Israelite religion
+161	they	were Guardians of	religion
+161	they	were Guardians of	true religion
+161	they	were	Guardians
+163	river	had As	result
+163	river	be dredged	three times
+163	lower river	be dredged	three times
+163	lower river	had As	result
+164	Barbara	fought	mugger
+164	Barbara	miscarried	her child
+164	Barbara	ultimately miscarried	her child
+164	Barbara	however fought	mugger
+165	Chevalier	erecting	shrine dedicated to honour of Mary under title of Our Lady of Sacred Heart
+165	Chevalier	erecting	shrine dedicated to honour of Mary under title of Our Lady
+165	Chevalier	erecting	shrine dedicated to honour under title
+165	Chevalier	erecting	shrine dedicated under title of Our Lady of Sacred Heart
+165	Chevalier	erecting	shrine dedicated to honour
+165	Chevalier	erecting	shrine dedicated under title
+165	Chevalier	erecting	shrine dedicated under title of Our Lady
+165	Chevalier	erecting	shrine dedicated to honour under title of Our Lady of Sacred Heart
+165	Chevalier	erecting	shrine dedicated to honour of Mary under title
+165	Chevalier	erecting	shrine dedicated to honour under title of Our Lady of Heart
+165	Chevalier	fulfilled	his promise year
+165	Chevalier	fulfilled	his promise following year
+165	Chevalier	erecting	shrine dedicated to honour of Mary
+165	Chevalier	erecting	shrine dedicated
+165	Chevalier	erecting	shrine
+165	Chevalier	erecting	shrine dedicated under title of Our Lady of Heart
+165	Chevalier	fulfilled	his promise
+165	Chevalier	erecting	shrine dedicated to honour under title of Our Lady
+165	Chevalier	erecting	shrine dedicated to honour of Mary under title of Our Lady of Heart
+166	Citizens	filed	Ethics Committee complaint against Bond
+166	Citizens	filed Ethics Committee complaint over	his role
+166	Citizens	filed Ethics Committee complaint over	his role in ouster
+166	Citizens	filed	Ethics Committee complaint
+166	Citizens	filed Ethics Committee complaint over	his role in ouster of Graves
+167	it	was	hearable
+167	it	was	rimshot
+167	it	was hearable beyond	downtown area
+167	it	was hearable in	northern portions of Atlanta
+167	it	was	barely hearable in portions of Atlanta beyond downtown area
+167	it	was barely hearable Due to	transmitter location
+167	it	was	hearable in northern portions of Atlanta beyond downtown area
+167	it	was rimshot to	southwest of city
+167	it	was	barely hearable
+167	it	was hearable in	portions
+167	it	was	hearable in portions of Atlanta beyond downtown area
+167	it	was hearable in	portions of Atlanta
+167	it	was rimshot to	southwest
+167	it	was hearable Due to	transmitter location
+167	it	was hearable in	northern portions
+167	it	was	barely hearable in northern portions of Atlanta beyond downtown area
+167	it	was barely hearable in	northern portions of Atlanta
+167	it	was	hearable in northern portions beyond downtown area
+167	it	was	barely hearable in portions beyond downtown area
+167	it	was	hearable in portions beyond downtown area
+167	it	was barely hearable in	northern portions
+167	it	was barely hearable in	portions of Atlanta
+167	it	was barely hearable in	portions
+167	it	was	barely hearable in northern portions beyond downtown area
+167	it	was barely hearable beyond	downtown area
+168	services	run	to/from Paddington
+168	services	run	direct to/from Paddington
+169	University	banned smoking on	any
+169	University	banned smoking From	start of semester of 2010
+169	University	banned smoking From	start of first semester of 2010
+169	University	banned smoking on	any including inside buildings
+169	University	banned smoking From	start
+169	University	banned smoking on	any of its property including inside buildings
+169	University	banned smoking From	start of semester
+169	University	banned	smoking
+169	University	banned smoking on	any of its property
+169	University	banned smoking From	start of first semester
+171	He	finds	himself
+171	He	ending	game
+172	He	played Perker in	1985 adaptation of Pickwick Papers
+172	He	played	Perker
+172	He	played Perker in	1985 adaptation
+173	He	represented	riding of Nickel Belt in Sudbury Ontario area
+173	He	represented	riding
+173	He	represented	riding of Nickel Belt
+173	He	riding of	Nickel Belt
+173	He	riding in	Sudbury Ontario area
+173	He	represented	riding in Sudbury Ontario area
+174	He	was buried in	Abbey
+174	He	was buried at	Hollywood Forever Cemetery
+174	He	was	buried
+174	He	was	buried in Abbey of Psalms mausoleum at Hollywood Forever Cemetery
+174	He	was	buried in Abbey at Hollywood Forever Cemetery
+174	He	was buried in	Abbey of Psalms mausoleum
+175	Aiseau	was	village dedicated
+175	Aiseau	was	Historically village
+175	Aiseau	was	Historically village dedicated
+175	Aiseau	was	Historically village dedicated to agriculture
+175	Aiseau	was	village
+175	Aiseau	was	village dedicated to agriculture
+176	Hofmann	was	high
+176	Hofmann	was	below-average high school student
+176	Hofmann	was	below-average school student
+176	Hofmann	was	below-average
+176	Hofmann	was	school student
+176	Hofmann	was	high school student
+177	BAE Systems	stated after	pressure campaigns from human rights groups
+177	BAE Systems	recently stated after	pressure campaigns from human rights groups
+177	BAE Systems	recently stated after	pressure campaigns
+177	BAE Systems	However recently stated after	pressure campaigns from various rights groups
+177	BAE Systems	However stated after	pressure campaigns from various human rights groups
+177	BAE Systems	recently stated after	pressure campaigns from rights groups
+177	BAE Systems	stated after	pressure campaigns from various rights groups
+177	BAE Systems	stated after	pressure campaigns from various human rights groups
+177	BAE Systems	However recently stated after	pressure campaigns from various human rights groups
+177	BAE Systems	However recently stated after	pressure campaigns from rights groups
+177	BAE Systems	However recently stated after	pressure campaigns from human rights groups
+177	BAE Systems	stated after	pressure campaigns
+177	it	produces	land mines
+177	BAE Systems	stated after	pressure campaigns from rights groups
+177	BAE Systems	recently stated after	pressure campaigns from various rights groups
+177	BAE Systems	However recently stated after	pressure campaigns
+177	BAE Systems	However stated after	pressure campaigns from various rights groups
+177	BAE Systems	However stated after	pressure campaigns
+177	BAE Systems	However stated after	pressure campaigns from rights groups
+177	BAE Systems	recently stated after	pressure campaigns from various human rights groups
+177	BAE Systems	However stated after	pressure campaigns from human rights groups
+178	vaccines	protect	vaccinees
+179	second excitation pulse	is	sent
+179	average magnetization vector	points in	direction
+179	average magnetization vector	giving	suboptimal absorption
+179	magnetization vector	points in	nonparallel direction
+179	relaxation	is	complete
+179	average magnetization vector	giving	absorption
+179	excitation pulse	is	sent prematurely
+179	average magnetization vector	giving	absorption of pulse
+179	magnetization vector	points in	direction
+179	magnetization vector	still points in	nonparallel direction
+179	magnetization vector	giving	absorption
+179	magnetization vector	giving	suboptimal absorption
+179	average magnetization vector	still points in	nonparallel direction
+179	magnetization vector	giving	absorption of pulse
+179	average magnetization vector	still points in	direction
+179	magnetization vector	still points in	direction
+179	average magnetization vector	points in	nonparallel direction
+179	second excitation pulse	is	sent prematurely
+179	magnetization vector	giving	suboptimal absorption of pulse
+179	excitation pulse	is	sent
+179	average magnetization vector	giving	suboptimal absorption of pulse
+180	he	won from	Yakutpura from Charminar
+180	he	won In	1972
+180	he	won from	Yakutpura
+180	he	won from	Yakutpura again from Charminar
+181	researchers	found	conductivity
+181	researchers	found conductivity In	1972
+181	researchers	found	conductivity in charge-transfer complex TTF-TCNQ
+181	researchers	found	metallic conductivity in charge-transfer complex TTF-TCNQ
+181	researchers	found	metallic conductivity
+182	several goals	replacing	SXDE
+182	several goals	providing	source
+182	goals	providing	source
+182	Sun	announced	Project Indiana with goals
+182	goals	providing	open source
+182	Sun	announced Project Indiana In	2007
+182	several goals	providing	open source
+182	Sun	announced	Project Indiana with several goals
+182	Sun	announced	Project Indiana
+182	goals	replacing	SXDE
+183	scam websites	unauthorized usage	unaware
+183	scam websites	usage	initially unaware
+183	scam websites	co-opted photograph In	2010
+183	Theuriau	was	of which unaware
+183	Theuriau	was	of which initially unaware
+183	scam websites	usage	of which initially unaware
+183	scam websites	co-opted	photograph of her
+183	Theuriau	was	unaware
+183	scam websites	usage	unaware
+183	scam websites	co-opted	photograph
+183	scam websites	unauthorized usage	initially unaware
+183	scam websites	usage	of which unaware
+183	scam websites	unauthorized usage	of which unaware
+183	scam websites	unauthorized usage	of which initially unaware
+183	Theuriau	was	initially unaware
+185	Byrom Street cutting	was point for	trains
+185	Byrom Street cutting	was	hitching point for trains hauled via Victoria Tunnel
+185	it	was	confirmed
+185	Byrom Street cutting	was	hitching point for trains hauled
+185	cable	being	hauled
+185	Byrom Street cutting	was	point for trains hauled to Edge Hill via Victoria Tunnel
+185	cable	being	hauled to Edge Hill via Victoria Tunnel
+185	Byrom Street cutting	was	point for trains hauled via Victoria Tunnel
+185	Byrom Street cutting	was	point for trains hauled
+185	it	was confirmed In	October 2009
+185	Byrom Street cutting	was	point for trains hauled to Edge Hill
+185	Byrom Street cutting	was hitching point for	trains
+185	Byrom Street cutting	was	hitching point for trains hauled to Edge Hill
+185	cable	being hauled via	Victoria Tunnel
+185	Byrom Street cutting	was	hitching point
+185	Byrom Street cutting	was	point
+185	cable	being hauled to	Edge Hill
+185	Byrom Street cutting	was hitching and unhitching point for	trains
+185	Byrom Street cutting	was	hitching point for trains hauled to Edge Hill via Victoria Tunnel
+186	Krahulik	goes to	France
+186	Holkins	stated In	news post
+186	he	reserved	right
+187	Language A	occupies In	case
+187	Language A	occupies In	typical case
+187	Language A	occupies In	typical case of substrate interference
+187	given territory	arrives in	territory
+187	territory	arrives in	territory
+187	Language A	occupies In	case of substrate interference
+187	given territory	arrives in	same territory
+187	territory	arrives in	same territory
+188	Condon	seeing Hauptmann in	lineup at New York Police Department Greenwich Street Station
+188	Condon	seeing	Hauptmann
+188	Condon	seeing Hauptmann in	lineup
+189	UTA	ordered	77 Siemens S70 light rail vehicles
+189	UTA	support	TRAX expansion
+189	UTA	support	planned TRAX expansion
+190	Kabul	of	economy
+191	he	civil rights for	Americans
+191	he	rights for	African Americans
+191	he	advocated	prosecution
+191	he	advocated	strong prosecution of Union War effort
+191	he	rights for	freed Americans
+191	he	end of	slavery
+191	he	advocated prosecution In	War
+191	he	advocated	strong prosecution
+191	he	civil rights for	freed Americans
+191	he	civil rights for	African Americans
+191	he	civil rights for	freed African Americans
+191	he	advocated	prosecution of Union War effort
+191	he	advocated prosecution In	Civil War
+191	he	rights for	freed African Americans
+191	he	rights for	Americans
+193	It	should	should noted
+194	Keats	had	genuine desire
+194	Guy	at	Hospital
+194	he	assuring	financial security
+194	he	assuring	security
+194	Keats 's long training	led	Guy 's Hospital
+194	he	lifelong career in	medicine
+194	Keats	had	genuine desire become
+194	Keats 's training	led	his family
+194	Keats 's long medical training	led	his family
+194	Keats	had	desire become
+194	Keats 's long training	led	his family
+194	he	pursue	lifelong career
+194	Keats 's long medical training	led	Guy 's Hospital
+194	Keats 's medical training	led	his family
+194	he	pursue	career
+194	he	pursue	career in medicine
+194	Keats	had	desire
+194	Keats 's medical training	led	Guy 's Hospital
+194	he	career in	medicine
+194	he	pursue	lifelong career in medicine
+194	Keats 's training	led	Guy 's Hospital
+195	Kim	graduated from	Ballard High School in Louisville
+195	Kim	graduated from	Ballard High School
+197	Males	had	income
+197	Males	had	median income
+197	Males	had	income of $ 36,016
+197	Males	had	median income of $ 36,016
+198	Mason City Division	Meanwhile continued	operate
+198	Mason City Division	continued	operate
+198	Mason City Division	operate	usual
+198	Mason City Division	operate	as usual
+199	Models	taking into	account
+199	size	blocks in	Gorgan Wall forts
+199	size	blocks	room number
+200	Modernity	has	has blended
+200	Modernity	sacrificing on	Buddhist ethos
+200	Modernity	sacrificing on	traditional Buddhist ethos
+202	Hank McCoy	retains features alongside	simian physiology equivalent
+202	Hank McCoy	retains features alongside	generally simian physiology equivalent to that
+202	Hank McCoy	retains features alongside	physiology equivalent to that
+202	Hank McCoy	retains features alongside	physiology equivalent to that of Ape
+202	Hank McCoy	retains features alongside	generally simian physiology equivalent to that of Great Ape
+202	Hank McCoy	Originally retains features alongside	generally simian physiology equivalent to that of Great Ape
+202	Hank McCoy	Originally retains features alongside	simian physiology equivalent to that of Great Ape
+202	Hank McCoy	retains	features of normal human
+202	Hank McCoy	Originally retains features alongside	physiology equivalent
+202	Hank McCoy	retains features alongside	generally simian physiology equivalent to that of Ape
+202	Hank McCoy	retains features alongside	simian physiology equivalent to that
+202	Hank McCoy	retains features alongside	simian physiology equivalent to that of Great Ape
+202	Hank McCoy	Originally retains	features of normal human
+202	Hank McCoy	Originally retains features alongside	generally simian physiology equivalent
+202	Hank McCoy	Originally retains	features
+202	Hank McCoy	Originally retains features alongside	generally physiology equivalent to that
+202	Hank McCoy	Originally retains features alongside	generally simian physiology equivalent to that
+202	Hank McCoy	Originally retains	basic features
+202	Hank McCoy	retains features alongside	generally physiology equivalent to that of Ape
+202	Hank McCoy	retains	features of human
+202	Hank McCoy	Originally retains	features of human
+202	Hank McCoy	retains	basic features of normal human
+202	Hank McCoy	Originally retains features alongside	generally physiology equivalent to that of Ape
+202	Hank McCoy	retains features alongside	generally physiology equivalent to that
+202	Hank McCoy	Originally retains features alongside	simian physiology equivalent
+202	Hank McCoy	Originally retains features alongside	simian physiology equivalent to that
+202	Hank McCoy	retains features alongside	physiology equivalent
+202	Hank McCoy	retains	features
+202	Hank McCoy	retains	basic features of human
+202	Hank McCoy	Originally retains	basic features of human
+202	Hank McCoy	retains features alongside	generally simian physiology equivalent
+202	Hank McCoy	retains features alongside	simian physiology equivalent to that of Ape
+202	Hank McCoy	Originally retains features alongside	physiology equivalent to that of Great Ape
+202	Hank McCoy	Originally retains features alongside	generally physiology equivalent to that of Great Ape
+202	Hank McCoy	retains features alongside	physiology equivalent to that of Great Ape
+202	Hank McCoy	retains features alongside	generally physiology equivalent to that of Great Ape
+202	Hank McCoy	Originally retains features alongside	physiology equivalent to that
+202	Hank McCoy	Originally retains features alongside	physiology equivalent to that of Ape
+202	Hank McCoy	retains	basic features
+202	Hank McCoy	Originally retains features alongside	generally simian physiology equivalent to that of Ape
+202	Hank McCoy	Originally retains	basic features of normal human
+202	Hank McCoy	retains features alongside	generally physiology equivalent
+202	Hank McCoy	Originally retains features alongside	generally physiology equivalent
+202	Hank McCoy	Originally retains features alongside	simian physiology equivalent to that of Ape
+203	Pakistan Chrome Mines Ltd.	is	mining company incorporated in Islamic Republic
+203	Pakistan Chrome Mines Ltd.	is	mining company incorporated in Republic
+203	Pakistan Chrome Mines Ltd.	is	mining company incorporated in Islamic Republic of Pakistan
+203	Pakistan Chrome Mines Ltd.	is	mining company
+203	Pakistan Chrome Mines Ltd.	is	mining company incorporated
+203	Pakistan Chrome Mines Ltd.	is	mining company incorporated in Republic of Pakistan
+205	positions	can	can inferred
+205	Plants	marking	parts
+205	Plants	have	have planted
+205	positions	can	can still inferred
+205	Plants	marking	parts of foundations
+205	Plants	marking	parts of foundations of castle
+206	she	was fired at	request of her replacement
+206	Scarpetta	convincing	herself
+206	she	was	fired from her position at request
+206	Scarpetta	returns in	Trace
+206	she	was	fired
+206	she	was fired from	her position
+206	she	was fired at	request
+206	Scarpetta	returns to	Virginia
+206	she	was	fired from her position at request of her replacement
+207	She	died in	October 1915
+207	She	died in	October 1915 of heart attack
+207	She	died in	October 1915 heart attack
+208	She	was	taken
+208	She	was ordered	rebuilt on 9 March 1724
+208	She	was	taken at Deptford Dockyard by Master Shipwright Richard Stacey
+208	She	was taken at	Deptford Dockyard
+208	She	was	taken in hand by Master Shipwright Richard Stacey
+208	She	was	taken in hand at Deptford Dockyard by Master Shipwright Richard Stacey
+208	She	was ordered	rebuilt
+208	She	was	ordered
+208	She	be rebuilt on	9 March 1724
+208	She	was taken in	hand
+208	She	was taken by	Master Shipwright Richard Stacey
+208	She	be	rebuilt
+208	She	was	taken in hand at Deptford Dockyard
+209	Shea	was born on	September 5 1900 in San Francisco
+209	Shea	was	born
+209	Shea	was born on	September 5 1900
+210	Superboy-Prime	seeing	opportunity
+210	Superboy-Prime	flew through	Anti-Monitor 's chest
+210	Superboy-Prime	hurled	his shattered body
+210	opportunity	defeat	Anti-Monitor
+210	Anti-Monitor	through	chest
+210	opportunity	defeat	now-weakened Anti-Monitor
+210	Superboy-Prime	hurled	his body
+211	Battalion	was raised in	January 1858
+211	2nd Battalion	was	raised at Winchester in January 1858
+211	Battalion	was	raised at Winchester in January 1858
+211	2nd Battalion	was raised at	Winchester
+211	2nd Battalion	was	raised
+211	2nd Battalion	was raised in	January 1858
+211	Battalion	was	raised
+211	Battalion	was raised at	Winchester
+212	Bureau	is	law enforcement organization within United States Department
+212	Bureau	is	federal law enforcement organization within United States Department of Justice
+212	Bureau	is	law enforcement organization
+212	Bureau	is	federal law enforcement organization
+212	Bureau	is	federal law enforcement organization within United States Department
+212	Bureau	is	law enforcement organization within United States Department of Justice
+212	Bureau	is	federal
+213	CRZ	was organized in	meeting during August 2001
+213	CRZ	was organized in	meeting at Siliguri in Indian State
+213	CRZ	was organized in	meeting in Indian State during August 2001
+213	CRZ	was	organized by Nepal in meeting in Indian State during August 2001
+213	CRZ	was organized in	meeting at Siliguri during August 2001
+213	CRZ	was	organized by Nepal in meeting at Siliguri in State
+213	CRZ	was	organized by Nepal in meeting in State during August 2001
+213	CRZ	was	organized by Nepal in meeting in Indian State of West Bengal
+213	CRZ	was organized in	meeting in State of West Bengal during August 2001
+213	CRZ	was	organized by Nepal in meeting at Siliguri during August 2001
+213	CRZ	was organized in	meeting at Siliguri in Indian State during August 2001
+213	CRZ	was organized in	meeting at Siliguri in State
+213	CRZ	was organized in	meeting in Indian State
+213	CRZ	was organized in	meeting at Siliguri in State of West Bengal
+213	CRZ	was organized in	meeting in State of West Bengal
+213	CRZ	was organized in	meeting in State during August 2001
+213	CRZ	was	organized by Nepal in meeting at Siliguri in Indian State
+213	CRZ	was organized in	meeting in Indian State of West Bengal during August 2001
+213	CRZ	was	organized by Nepal in meeting at Siliguri
+213	CRZ	was	organized
+213	CRZ	was organized in	meeting at Siliguri in Indian State of West Bengal during August 2001
+213	CRZ	was organized in	meeting in Indian State of West Bengal
+213	CRZ	was	organized by Nepal in meeting at Siliguri in State during August 2001
+213	CRZ	was	organized by Nepal in meeting at Siliguri in Indian State during August 2001
+213	CRZ	was	organized by Nepal in meeting in State
+213	CRZ	was organized in	meeting at Siliguri in Indian State of West Bengal
+213	CRZ	was	organized by Nepal in meeting
+213	CRZ	was	organized by Nepal in meeting at Siliguri in State of West Bengal during August 2001
+213	CRZ	was organized by	Nepal
+213	CRZ	was	organized by Nepal in meeting in Indian State
+213	CRZ	was	organized by Nepal in meeting at Siliguri in Indian State of West Bengal
+213	CRZ	was	organized by Nepal in meeting at Siliguri in Indian State of West Bengal during August 2001
+213	CRZ	was organized in	meeting at Siliguri
+213	CRZ	was organized in	meeting at Siliguri in State of West Bengal during August 2001
+213	CRZ	was organized in	meeting at Siliguri in State during August 2001
+213	CRZ	was	organized by Nepal in meeting in Indian State of West Bengal during August 2001
+213	CRZ	was organized in	meeting in State
+213	CRZ	was	organized by Nepal in meeting at Siliguri in State of West Bengal
+213	CRZ	was	organized by Nepal in meeting during August 2001
+213	CRZ	was	organized by Nepal in meeting in State of West Bengal
+213	CRZ	was organized in	meeting
+213	CRZ	was	organized by Nepal in meeting in State of West Bengal during August 2001
+214	Steinbrenner family	added	monument
+214	Steinbrenner family	added	monument to Monument Park
+214	Steinbrenner family	added on	September 20
+214	Steinbrenner family	added monument on	September 20
+215	many Wardlaw-Hartridge Students	attend	camp
+215	Wardlaw-Hartridge Students	attend camp over	summer
+215	Wardlaw-Hartridge Students	attend	camp
+215	many Wardlaw-Hartridge Students	attend camp over	summer
+216	Triple-A Baseball National Championship Game	was	established
+216	Triple-A Baseball National Championship Game	was established in	2006
+217	locals	call	Haynes Street
+217	locals	sometimes call	Haynes Street
+218	Charleston Courier	form	Charleston Daily News
+218	Charleston Courier	form	News in 1873
+218	Charleston Courier	merged	Charleston Daily News
+218	Charleston Courier	form	News
+218	Charleston Courier	founded in	1865
+218	Charleston Courier	founded in	1803
+220	city	named	Nordland
+220	city	was founded by	Western Town Lot Company
+220	city	originally named with	streets
+220	city	originally named	Nordland
+220	city	was founded by	Western Town Lot Company in 1880
+220	city	was	founded
+220	city	named with	streets
+220	city	named with	platted streets
+220	city	originally named with	platted streets
+221	community	is	served
+221	community	is served by	United States Postal Service Hinsdale Post Office
+222	ensemble	has	extensive recordings with Deutsche Grammophon
+222	ensemble	also has	extensive recordings
+222	ensemble	has	extensive recordings
+222	ensemble	also has	recordings
+222	ensemble	also has	recordings with Deutsche Grammophon
+222	ensemble	has	recordings with Deutsche Grammophon
+222	ensemble	also has	extensive recordings with Deutsche Grammophon
+222	ensemble	has	recordings
+223	deploy	would have consequences in	later action against German forces
+223	deploy	would have consequences in	action against German forces in Tunisia
+223	deploy	would have consequences in	later action
+223	deploy	would have consequences in	action against forces in Tunisia
+223	deploy	would have consequences in	later action against forces
+223	deploy	would have consequences in	later action against German forces in Tunisia
+223	deploy	would have	important consequences
+223	deploy	would have consequences in	later action against forces in Tunisia
+223	deploy	would have consequences in	action against German forces
+223	deploy	would have	consequences
+223	deploy	would have consequences in	action
+223	deploy	would have consequences in	action against forces
+224	result	would	would decided on aggregate
+224	first laps	would	would added to part of race
+224	first laps	would	would added to part
+224	laps	would	would added
+224	five laps	would	would added to second part
+224	first laps	would	would added to second part of race
+224	laps	would	would added to second part of race
+224	laps	would	would added to second part
+224	laps	would	would added to part of race
+224	first five laps	would	would added to part of race
+224	five laps	would	would added
+224	first five laps	would	would added to second part
+224	first five laps	would	would added
+224	laps	would	would added to part
+224	five laps	would	would added to second part of race
+224	first laps	would	would added
+224	overall result	would	would decided on aggregate
+224	overall result	would	would decided
+224	five laps	would	would added to part
+224	first laps	would	would added to second part
+224	first five laps	would	would added to part
+224	result	would	would decided
+224	first five laps	would	would added to second part of race
+224	five laps	would	would added to part of race
+225	group	played	Tokyo
+225	following tour	featured	dates
+225	tour	featured	extensive dates
+225	following tour	featured	extensive dates
+225	tour	featured	dates
+226	insurer	sponsored	golf tournament known
+226	insurer	sponsored	golf tournament
+226	New Orleans Open	beginning in	1981
+228	provost	Professor from	following Schools
+228	members	are	provost
+228	permanent members	are	provost
+229	according	are according to	Meenakshi Temple in Tamil Nadu
+229	pillars	are according to	Doric
+229	according	are according to	Meenakshi Temple at Madurai in Tamil Nadu
+229	according	are according to	Meenakshi Temple at Madurai
+229	pillars	are	according
+229	according	are according to	Meenakshi Temple
+230	race	held in	late February
+230	race	usually held in	late February
+230	race	is in	eights
+230	race	held in	February
+230	race	is in	mixed eights
+230	race	usually held in	February
+231	rapids	were removed in	1908
+231	rapids	were	removed
+232	Ram SRT-10	came in	Mineral Gray Metallic
+232	redesigned Ram SRT-10	came in	Mineral Gray Metallic
+232	redesigned 2006 Ram SRT-10	came in	Mineral Gray Metallic
+232	2006 Ram SRT-10	came in	Mineral Gray Metallic
+233	residue	can	can reprocessed
+233	cheesecloth	lined	sieve
+233	cheesecloth	lined sieve as	ingredient
+233	cheesecloth	lined sieve as	ingredient beef stock
+233	cheesecloth	lined sieve as	ingredient fine beef stock
+234	Brady	phone	Sheriff
+235	he	taking	aspirin
+235	riders	shouting protests at	race doctor
+235	riders	shouting	protests
+235	riders	shouting	protests in general
+235	riders	began	walking
+237	third known version	is	part number 2189014-00-212 with at least one model produced
+237	third known version	is	part number 2189014-00-212 with at least one model produced in February 1993
+237	third version	is	part number 2189014-00-212 with at least one model produced in February 1993
+237	known version	is	part number 2189014-00-212
+237	known version	is	part number 2189014-00-212 with at least one model produced in February 1993
+237	third version	is	part number 2189014-00-212
+237	third version	is	part number 2189014-00-212 with at least one model produced
+237	version	is	part number 2189014-00-212 with at least one model produced in February 1993
+237	known version	is	part number 2189014-00-212 with at least one model
+237	part number 2189014-00-212	is with	at least one model produced in February 1993
+237	third known version	is	part number 2189014-00-212
+237	third version	is	part number 2189014-00-212 with at least one model
+237	known version	is	part number 2189014-00-212 with at least one model produced
+237	version	is	part number 2189014-00-212 with at least one model produced
+237	version	is	part number 2189014-00-212
+237	version	is	part number 2189014-00-212 with at least one model
+237	third known version	is	part number 2189014-00-212 with at least one model
+238	fillets	are	Then put in mix of olive oil
+238	fillets	are	put
+238	fillets	are	Then put
+238	fillets	are	Then put in mix
+238	fillets	are put in	mix
+238	fillets	are	Then put in mix of oil
+238	fillets	are put in	mix of olive oil
+238	fillets	are put in	mix of oil
+239	32.50 %	were	non-families
+239	%	were	non-families
+240	their screen projection	is	too small
+240	their screen projection	is	small
+241	These	were	often related
+241	These	were related to	conflict
+241	Stuart Pretenders	encouraged by	Britain 's enemies for their ends
+241	Stuart Pretenders	encouraged by	Britain 's continental enemies
+241	Stuart Pretenders	encouraged by	Britain 's continental enemies for their ends
+241	Stuart Pretenders	encouraged by	Britain 's enemies for their own ends
+241	Stuart Pretenders	were	aided
+241	These	were often related to	European conflict
+241	Stuart Pretenders	encouraged by	Britain 's enemies
+241	These	were	related
+241	These	were often related to	conflict
+241	Stuart Pretenders	encouraged by	Britain 's continental enemies for their own ends
+241	These	were related to	European conflict
+241	Britain	by	continental enemies for own ends
+242	They	beat	Milligan 1-0
+242	They	beat	Grand View 3-0
+244	it	was language of	nonconformist churches
+244	it	was language of	churches in Wales
+244	it	was language of	nonconformist churches in Wales
+244	This	had	implications for Welsh language
+244	it	was main language of	churches
+244	This	had	implications
+244	it	was main language of	churches in Wales
+244	it	was main language of	nonconformist churches
+244	This	had	considerable implications for Welsh language
+244	This	had	considerable implications
+244	it	was	language
+244	it	was	main language
+244	it	was language of	churches
+244	it	was main language of	nonconformist churches in Wales
+245	Fresh Food Story	constructed at	end
+245	Total Fresh Food Story	constructed at	end North Mall
+245	Total Fresh Food Story	constructed at	end
+245	Food Story	constructed at	end
+245	Total Food Story	constructed at	end North Mall
+245	Total Food Story	constructed at	end
+245	Food Story	constructed at	end North Mall
+245	Fresh Food Story	constructed at	end North Mall
+246	Watson	editor of	newcritics.com
+246	Watson	was	founder
+247	government	was	When introduced
+247	government	was	introduced in Romblon by Americans in 16 March 1901
+247	government	was introduced by	Americans
+247	civilian government	was	When introduced
+247	government	was	When introduced by Americans
+247	civilian government	was	introduced in Romblon by Americans
+247	government	was	When introduced in Romblon
+247	government	was	When introduced in 16 March 1901
+247	civilian government	was	When introduced by Americans in 16 March 1901
+247	government	was introduced in	16 March 1901
+247	civilian government	was	When introduced in Romblon in 16 March 1901
+247	government	was	introduced by Americans in 16 March 1901
+247	government	was	When introduced by Americans in 16 March 1901
+247	government	was	When introduced in Romblon by Americans
+247	civilian government	was	introduced by Americans in 16 March 1901
+247	government	was	introduced
+247	civilian government	was	introduced in Romblon in 16 March 1901
+247	civilian government	was	introduced in Romblon by Americans in 16 March 1901
+247	civilian government	was	introduced
+247	government	was	introduced in Romblon in 16 March 1901
+247	government	was introduced in	Romblon
+247	government	was	When introduced in Romblon by Americans in 16 March 1901
+247	civilian government	was	When introduced by Americans
+247	civilian government	was introduced in	Romblon
+247	civilian government	was	When introduced in Romblon by Americans in 16 March 1901
+247	civilian government	was introduced in	16 March 1901
+247	civilian government	was introduced by	Americans
+247	government	was	When introduced in Romblon in 16 March 1901
+247	civilian government	was	When introduced in 16 March 1901
+247	civilian government	was	When introduced in Romblon
+247	government	was	introduced in Romblon by Americans
+247	civilian government	was	When introduced in Romblon by Americans
+250	similar technique	apply to	crops
+250	technique	apply to	crops
+250	technique	is	impossible
+250	technique	is	almost impossible
+250	similar technique	is	almost impossible
+250	technique	apply to	other crops
+250	similar technique	apply to	other crops
+250	similar technique	is	impossible
+251	Gauguin	may	may lost
+251	Heathrow authorities	group of	allegedly crooked baggage handlers
+251	Heathrow authorities	group of	baggage handlers
+251	Heathrow authorities	group of	crooked baggage handlers
+253	he	said As	result
+254	market	was still listening to	debate
+254	John Major	clarify	his approach to economy
+254	market	was listening to	debate
+254	market	was still listening to	parliamentary debate
+254	John Major	clarify	his approach
+254	market	was listening to	debate on economy
+254	market	was listening to	parliamentary debate
+254	John Major	clarify	his approach to British economy
+254	market	was still listening to	parliamentary debate on economy
+254	London trading session	drew to	close
+254	market	was still listening to	debate on economy
+254	market	was listening to	parliamentary debate on economy
+255	patients	require	attention
+255	patients	require	less attention
+255	room charges	are	lower
+255	patients	attention from	nurses
+255	patients	less attention from	nurses
+255	patients	require	attention from nurses
+255	patients	require	less attention from nurses
+256	Both	reflect	dismissal
+256	Both	reflect	dismissal of level
+256	Both	reflect	dismissal of lower level
+257	accounts	all	sales of stock funds
+257	accounts	are all from	September 's level
+257	accounts	all	subsequent sales
+257	accounts	all up	sales
+257	accounts	all up	sales of stock funds
+257	new accounts	all up	inquiries
+257	accounts	all	inquiries
+257	new accounts	all	inquiries
+257	new accounts	all	sales of stock funds
+257	new accounts	all	sales
+257	accounts	all up	inquiries
+257	accounts	all	subsequent sales of stock funds
+257	new accounts	are all up from	September 's level
+257	accounts	all	sales
+257	accounts	all up	new sales
+257	new accounts	are all from	September 's level
+257	new accounts	all up	new sales
+257	accounts	all up	subsequent sales
+257	new accounts	all	subsequent sales of stock funds
+257	accounts	are all up from	September 's level
+257	new accounts	all	subsequent sales
+257	new accounts	are	all up
+257	September	from	level
+257	new accounts	are	all
+257	new accounts	all up	sales
+257	accounts	all up	subsequent sales of stock funds
+257	new accounts	all up	subsequent sales
+257	accounts	are	all
+257	accounts	are	all up
+257	new accounts	all up	sales of stock funds
+257	new accounts	all up	subsequent sales of stock funds
+257	accounts	all	new sales
+257	new accounts	all	new sales
+258	it	does	that at cost
+258	it	does	that
+260	soft drink volume	is in	Singapore
+260	joint venture	is with	Fraser Ltd.
+260	its bottling franchisee	is in	country
+262	Bert Campaneris	flips	it
+262	Bert Campaneris	thief 's	Oakland
+262	Bert Campaneris	Crouched at	shortstop
+263	traders	said Despite	modest gains
+263	traders	said Despite	gains
+264	Mr. Sider	pores in	morning
+264	Mr. Sider	pores over	wills
+264	Mr. Sider	Early pores over	wills
+264	Mr. Sider	Early pores in	morning
+264	Mr. Sider	pores over	last wills
+264	Mr. Sider	Early pores over	last wills
+265	Foxmoor Specialty Stores Corp.	unit of	Dylex Ltd.
+267	passenger	can fly from	Chardon
+267	passenger	can fly according to	prices quoted
+267	passenger	can fly For	example
+267	passenger	can fly for	little 89 $ 109
+267	passenger	can fly for	as 89 $ 109
+267	passenger	can fly from	Neb.
+267	passenger	can fly for	as little 89 $ 109
+267	passenger	can fly for	as little as 89 $ 109
+267	passenger	can fly to	Denver
+267	passenger	can fly for	as as 89 $ 109
+267	passenger	can fly according to	prices quoted by company
+267	passenger	can fly according to	prices
+267	passenger	can fly for	89 $ 109
+267	passenger	can fly for	little as 89 $ 109
+268	Hani Zayadi	was appointed	effective
+268	Hani Zayadi	was appointed	president
+268	Hani Zayadi	was	appointed
+268	Hani Zayadi	was appointed	effective Nov. 15
+269	poison pills	are	adopted
+269	poison pills	are	once adopted
+270	Hungary 's Parliament	hold	national referendum
+270	Hungary 's Parliament	hold referendum on	election
+270	Hungary 's Parliament	hold	referendum
+273	It	was	active
+273	It	was most active of	100 share index
+273	It	was active of	100 share index
+273	It	was	most active
+274	office workers	use	PCs
+274	Japanese office workers	use	PCs
+275	Labor costs	are climbing at	rapid pace in health care industry than in industries
+275	Labor costs	are climbing at	more rapid pace in health care industry than in other industries
+275	Labor costs	are climbing at	rapid pace than in other industries
+275	Labor costs	are climbing at	pace than in industries
+275	Labor costs	are climbing at	pace than in other industries
+275	Labor costs	are climbing at	rapid pace than in industries
+275	Labor costs	are climbing at	far more rapid pace in health care industry than in industries
+275	Labor costs	are climbing at	rapid pace in health care industry than in other industries
+275	Labor costs	are climbing at	more rapid pace than in other industries
+275	Labor costs	are climbing at	more rapid pace than in industries
+275	Labor costs	are climbing at	far more rapid pace than in industries
+275	Labor costs	are climbing at	pace in health care industry than in industries
+275	Labor costs	are climbing at	far more rapid pace than in other industries
+275	Labor costs	are climbing at	pace in health care industry than in other industries
+275	Labor costs	are climbing at	more rapid pace in health care industry than in industries
+275	Labor costs	are climbing at	far more rapid pace in health care industry than in other industries
+276	Mitsubishi	has	control of major projects
+276	Mitsubishi	has	control
+276	Mitsubishi	Meanwhile has control at	home
+276	Mitsubishi	Meanwhile has	control of projects
+276	Mitsubishi	Meanwhile has	control
+276	Mitsubishi	has	control of projects
+276	Mitsubishi	Meanwhile has	control of major projects
+276	Mitsubishi	has control at	home
+279	Mr. Ridley 's decision	fires pistol for	contest
+279	Mr. Ridley 's decision	fires pistol for	contest between world 's auto giants for Britain 's luxury car maker
+279	Mr. Ridley 's decision	fires pistol for	costly contest between world 's auto giants
+279	Mr. Ridley 's decision	fires pistol for	perhaps contest between world 's auto giants for Britain 's leading luxury car maker
+279	Mr. Ridley 's decision	fires pistol for	perhaps contest between world 's auto giants
+279	Mr. Ridley 's decision	fires pistol for	costly contest
+279	Britain	for	leading luxury car maker
+279	Mr. Ridley 's decision	fires pistol for	perhaps costly contest
+279	Mr. Ridley 's decision	fires pistol for	perhaps contest between world 's auto giants for Britain 's luxury car maker
+279	world	between	auto giants for leading luxury car maker
+279	Mr. Ridley 's decision	fires pistol for	contest between world 's auto giants
+279	Mr. Ridley 's decision	fires	starting pistol
+279	Mr. Ridley 's decision	fires pistol for	contest between world 's auto giants for Britain 's leading luxury car maker
+279	Mr. Ridley 's decision	fires pistol for	perhaps costly contest between world 's auto giants
+279	Mr. Ridley 's decision	fires pistol for	perhaps costly contest between world 's auto giants for Britain 's leading luxury car maker
+279	Mr. Ridley 's decision	fires pistol for	costly contest between world 's auto giants for Britain 's luxury car maker
+279	Mr. Ridley 's decision	fires pistol for	costly contest between world 's auto giants for Britain 's leading luxury car maker
+279	Mr. Ridley 's decision	fires pistol for	perhaps contest
+279	Mr. Ridley 's decision	fires	pistol
+279	Mr. Ridley 's decision	fires pistol for	perhaps costly contest between world 's auto giants for Britain 's luxury car maker
+282	Asia	of	leading statesmen
+283	Repeat customers	can purchase luxury items at	prices
+283	Repeat customers	also can purchase luxury items at	reduced prices
+283	Repeat customers	can purchase luxury items at	reduced prices
+283	Repeat customers	can purchase	luxury items
+283	Repeat customers	also can purchase	luxury items
+283	Repeat customers	also can purchase luxury items at	prices
+284	last year	examined	American Continental Corp.
+284	year	examined	Lincoln 's parent
+284	last year	examined	Lincoln 's parent
+284	year	examined	American Continental Corp.
+285	measure	is with	procedural actions
+285	he	has	votes
+285	he	has	sufficient votes
+285	Sen. Mitchell	is	confident
+287	Lone Star Technologies	is	responsible
+287	Lone Star Technologies	is	jointly responsible
+288	pilots	set properly	plane 's wing flaps
+288	pilots	set	plane 's wing flaps
+289	Monday	at	auction
+290	they	were	filed late
+290	they	were	filed
+290	they	were	filed too late
+291	executives	building	American
+291	executives	building	National
+292	dollar	by	resiliency
+293	office	advise	clients
+293	office	advise	foreign clients
+293	office	may	may also able
+293	office	advise clients on	law
+293	office	may	may able
+293	office	advise clients on	international law
+295	New York City	announced	10 point policy patterned on federal bill of rights
+295	10 point policy	patterned on	federal bill rights taxpayers
+295	New York City	announced	10 point policy
+295	New York City	announced	10 point policy patterned on federal bill
+295	New York City	announced	10 point policy patterned
+295	New York City	announced	10 point policy patterned on federal bill of rights for taxpayers
+295	10 point policy	patterned on	federal bill
+295	New York City	announced	10 point policy patterned on bill
+295	10 point policy	patterned on	bill rights
+295	New York City	announced	10 point policy patterned on bill of rights
+295	10 point policy	patterned on	federal bill rights
+295	New York City	announced	10 point policy patterned on bill of rights for taxpayers
+295	10 point policy	patterned on	bill rights taxpayers
+295	10 point policy	patterned on	bill
+296	USG Corp.	sell	its headquarters building
+296	it	moves to	quarters
+296	it	moves to	new quarters
+296	USG Corp.	sell here	its headquarters building
+296	it	moves to	quarters in 1992
+296	USG Corp.	lease	19 story facility
+296	it	moves to	new quarters in 1992
