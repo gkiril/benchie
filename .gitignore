@@ -1,0 +1,5 @@
+.ipynb_checkpoints/*
+src/__pycache__/*
+*.pyc
+src/__pycache__/benchie.cpython-38.pyc
+
