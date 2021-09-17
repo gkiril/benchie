@@ -2,7 +2,7 @@
 
 BenchIE is a benchmark for measuring performance of Open Information Extraction (OIE) systems. Given manual annotations and a set of OIE extractions from different OIE systems, BenchIE measures precision, recall and F1 score based on our fact-based approach for evaluating OIE systems. 
 
-You can find the details about the benchmark in our paper *BenchIE: Open Information Extraction Evaluation Based on Facts, Not Tokens*. 
+You can find the details about the benchmark in our paper [*BenchIE: Open Information Extraction Evaluation Based on Facts, Not Tokens*](https://arxiv.org/abs/2109.06850). 
 
 ## Table of contents
 
