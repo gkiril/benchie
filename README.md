@@ -12,6 +12,7 @@ You can find the details about the benchmark in our paper [*BenchIE: Open Inform
   - [Data formats and data handling](#data-formats-and-data-handling)
     - [Golden annotations](#golden-annotations)
     - [OIE system extractions](#oie-system-extractions)
+  - [Citing](#citing)
 
 
 ## Requirements
@@ -192,3 +193,15 @@ Note that `sent_id` should match `sent_id` from the golden extractions. For exam
 19 <TAB> She <TAB> began <TAB> her film career
 ```
 This means that this particular OIE triple will be evaluated w.r.t. the sentence with `sent_id=19` in the golden annotations file. 
+
+### Citing
+If you use BenchIE for your research, please cite the following paper:
+
+```
+@article{gashteovski2021benchie,
+  title={BenchIE: Open Information Extraction Evaluation Based on Facts, Not Tokens},
+  author={Gashteovski, Kiril and Yu, Mingying and Kotnis, Bhushan and Lawrence, Carolin and Glavas, Goran and Niepert, Mathias},
+  journal={arXiv preprint arXiv:2109.06850},
+  year={2021}
+}
+```
