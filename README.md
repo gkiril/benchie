@@ -12,6 +12,7 @@ You can find the details about the benchmark in our paper [*BenchIE: Open Inform
   - [Data formats and data handling](#data-formats-and-data-handling)
     - [Golden annotations](#golden-annotations)
     - [OIE system extractions](#oie-system-extractions)
+  - [License](#license)
   - [Citing](#citing)
 
 
@@ -193,6 +194,10 @@ Note that `sent_id` should match `sent_id` from the golden extractions. For exam
 19 <TAB> She <TAB> began <TAB> her film career
 ```
 This means that this particular OIE triple will be evaluated w.r.t. the sentence with `sent_id=19` in the golden annotations file. 
+
+### License
+
+The software framework is licensed according to the license for academic or non-profit organization noncommercial research use only. Details are provided in the [license file](https://github.com/gkiril/benchie/blob/main/LICENSE.txt) and in the header of each file. The data is under the non-restrictive MIT license (following [CaRB](https://github.com/dair-iitd/CaRB)).
 
 ### Citing
 If you use BenchIE for your research, please cite the following paper:
