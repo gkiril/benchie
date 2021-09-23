@@ -197,7 +197,7 @@ This means that this particular OIE triple will be evaluated w.r.t. the sentence
 
 ### License
 
-The software framework is licensed according to the license for academic or non-profit organization noncommercial research use only. Details are provided in the [license file](https://github.com/gkiril/benchie/blob/main/LICENSE.txt) and in the header of each source code file. The data is under the non-restrictive MIT license (following [CaRB](https://github.com/dair-iitd/CaRB)).
+The software framework is licensed according to the license for academic or non-profit organization noncommercial research use only. Details are provided in the [license file](https://github.com/gkiril/benchie/blob/main/LICENSE.txt) and in the header of each source code file. The data is under the non-restrictive [MIT license](https://github.com/dair-iitd/CaRB/blob/master/LICENSE) (following [CaRB](https://github.com/dair-iitd/CaRB)).
 
 ### Citing
 If you use BenchIE for your research, please cite the following paper:
