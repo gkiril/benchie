@@ -29,7 +29,7 @@ import numpy as np
 import pdb
 
 # Define input files
-gold_annotation_file = "data/gold/2_annotators/benchie_gold_annotations_2annotators_with_sent_id.txt"
+gold_annotation_file = "data/gold/2_annotators/benchie_gold_annotations_en.txt"
 clausie_extractions_file = "data/oie_systems_explicit_extractions/clausie_explicit.txt"
 minie_extractions_file = "data/oie_systems_explicit_extractions/minie_explicit.txt"
 stanford_extractions_file = "data/oie_systems_explicit_extractions/stanford_explicit.txt"
@@ -37,7 +37,7 @@ openie6_extractions_file = "data/oie_systems_explicit_extractions/openie6_explic
 roie_t_extractions_file = "data/oie_systems_explicit_extractions/roi_t_explicit.txt"
 roie_n_extractions_file = "data/oie_systems_explicit_extractions/roi_n_explicit.txt"
 naive_extractions_file = "data/oie_systems_explicit_extractions/naive_oie_extractions.txt"
-m2oie_extraction_file = "data/oie_systems_explicit_extractions/m2oie_en_bn_explicit.txt"
+m2oie_extraction_file = "data/oie_systems_explicit_extractions/m2oie_en_explicit.txt"
 
 # Load gold annotations to BenchIE
 benchie = Benchie()
@@ -103,10 +103,10 @@ Similarly, to run BenchIE on the datasets for Chinese and German, execute the fo
 # Run BenchIE for chinese and German
 
 # Dataset names
-gold_annotation_file_zh = "data/gold/benchie_gold_annotations_zh_with_sent_id.txt"
-multi2oie_extractions_zh_file = "data/oie_systems_explicit_extractions/multi_CH_bn_explicit.txt"
-gold_annotation_file_de = "data/gold/benchie_gold_annotations_de_with_sent_id.txt"
-multi2oie_extractions_de_file = "data/oie_systems_explicit_extractions/m2oie_de_bn_explicit.txt"
+gold_annotation_file_zh = "data/gold/benchie_gold_annotations_zh.txt"
+multi2oie_extractions_zh_file = "data/oie_systems_explicit_extractions/m2oie_zh_explicit.txt"
+gold_annotation_file_de = "data/gold/benchie_gold_annotations_de.txt"
+multi2oie_extractions_de_file = "data/oie_systems_explicit_extractions/m2oie_de_explicit.txt"
 
 # BenchIE for Chinese language
 benchie_zh = Benchie()
