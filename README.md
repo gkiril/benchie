@@ -12,6 +12,8 @@ You can find the details about the benchmark in our paper [*BenchIE: Open Inform
   - [Data formats and data handling](#data-formats-and-data-handling)
     - [Golden annotations](#golden-annotations)
     - [OIE system extractions](#oie-system-extractions)
+  - [Languages](#languages)
+  - [Reproduce experiments](#reproduce-experiments)
   - [License](#license)
   - [Citing](#citing)
 
@@ -195,11 +197,19 @@ Note that `sent_id` should match `sent_id` from the golden extractions. For exam
 ```
 This means that this particular OIE triple will be evaluated w.r.t. the sentence with `sent_id=19` in the golden annotations file. 
 
-### License
+## Languages
+
+BenchIE provides evaluation data in several languages: English, German, Chinese, Japanese, Galician and Arabic. Some of these languages are not available yet, but they soon will be.
+
+## Reproduce experiments
+
+A notebook for reproducing the experiments from the paper (TBA)
+
+## License
 
 The software framework is licensed according to the license for academic or non-profit organization noncommercial research use only. Details are provided in the [license file](https://github.com/gkiril/benchie/blob/main/LICENSE.txt) and in the header of each source code file. The data is under the non-restrictive [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
-### Citing
+## Citing
 If you use BenchIE for your research, please cite the following paper:
 
 ```
