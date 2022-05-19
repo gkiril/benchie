@@ -13,6 +13,7 @@ You can find the details about the benchmark in our paper [*BenchIE: Open Inform
     - [Golden annotations](#golden-annotations)
     - [OIE system extractions](#oie-system-extractions)
   - [Languages](#languages)
+  - [Facets](#facets)
   - [Reproduce experiments](#reproduce-experiments)
   - [License](#license)
   - [Citing](#citing)
@@ -200,6 +201,10 @@ This means that this particular OIE triple will be evaluated w.r.t. the sentence
 ## Languages
 
 BenchIE provides evaluation data in several languages: English, German, Chinese, Japanese, Galician and Arabic. Some of these languages are not available yet, but they soon will be.
+
+## Facets
+
+BenchIE comes in multiple facets: BenchIE (regular), BenchIE-E (entity), BenchIE-M (minimality) and BenchIE-C (concatenate). For now, the code is available only on the regular BenchIE facet. The data and the framework code for the other facets will be soon available.
 
 ## Reproduce experiments
 
