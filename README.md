@@ -218,10 +218,11 @@ The software framework is licensed according to the license for academic or non-
 If you use BenchIE for your research, please cite the following paper:
 
 ```
-@article{gashteovski2021benchie,
-  title={BenchIE: Open Information Extraction Evaluation Based on Facts, Not Tokens},
-  author={Gashteovski, Kiril and Yu, Mingying and Kotnis, Bhushan and Lawrence, Carolin and Glavas, Goran and Niepert, Mathias},
-  journal={arXiv preprint arXiv:2109.06850},
-  year={2021}
+@inproceedings{Gashteovski2022BenchIEAF,
+  title={{BenchIE: A Framework for Multi-Faceted Fact-Based Open Information Extraction Evaluation}},
+  author={Kiril Gashteovski and Mingying Yu and Bhushan Kotnis and Carolin Lawrence and Mathias Niepert and Goran Glavavs},
+  booktitle={ACL},
+  url={https://aclanthology.org/2022.acl-long.307/},
+  year={2022}
 }
 ```
